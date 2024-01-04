@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1  tvg-id="Sport5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhaKt5RzrpQIXLwXXpqrZMPvvjgCTwpdGXnCJVAcOD5g&s" group-title="Israel",Sport5
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlistMain_1_.m3u8
 
 #EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://diversityisrael.org.il/wp-content/uploads/kan-200x145.png" group-title="Israel",kan 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
@@ -18,14 +20,14 @@ https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957
 #EXTINF:-1 tvg-id="shopping" tvg-name="21channel" tvg-logo="https://www.new4u.co.il/wp-content/uploads/2017/07/%D7%9C%D7%95%D7%92%D7%95-%D7%A2%D7%A8%D7%95%D7%A5-%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg" group-title="Israel",ערוץ הקניות
 https://shoppingil-rewriter.vidnt.com/index.m3u8
 
-#EXTINF:-1 tvg-name="Sport5" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/52/Sport5_Logo.svg/768px-Sport5_Logo.svg.png" tvg-id="Sport5" group-title="Israel",Sport5
-https://rgelive.akamaized.net/hls/live/2043095/live3/playlistMain_1_.m3u8
+#EXTINF:-1 tvg-name="مكان 33" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png" tvg-id="Makan33.il" group-title="Israel",مكان 33
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 
 #EXTINF:-1 tvg-name="9 ערוץ Ⓨ" tvg-logo="https://i.imgur.com/pttM3KQ.png" tvg-id="Channel9.il" group-title="Israel",9 канал Ⓨ
 https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
 
-#EXTINF:-1 tvg-id="HOT3 Israel" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/ff/HOT3_2018_Logo.svg/800px-HOT3_2018_Logo.svg.png", HOT3 Israel
-plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-553.php
+#EXTINF:-1 tvg-name="Ynet Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/293px-Ynet_website_logo.svg.png" tvg-id="Ynet" group-title="Israel",Ynet
+https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live_720/index.m3u8
 
 #EXTINF:-1 tvg-name="וואלה" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/d5/Walla_logo.svg/1199px-Walla_logo.svg.png?20121102120646" tvg-id="Walla" group-title="Israel",Walla
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
