@@ -23,11 +23,20 @@ https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1 tvg-name="9 ערוץ Ⓨ" tvg-logo="https://i.imgur.com/pttM3KQ.png" tvg-id="Channel9.il" group-title="Israel",9 канал Ⓨ
 https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
 
-#EXTINF:-1 tvg-name="9 ערוץ Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/293px-Ynet_website_logo.svg.png" tvg-id="Ynet" group-title="Israel",Ynet
+#EXTINF:-1 tvg-name="Ynet Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/293px-Ynet_website_logo.svg.png" tvg-id="Ynet" group-title="Israel",Ynet
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live_720/index.m3u8
 
-#EXTINF:-1 tvg-name="9 ערוץ Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/d5/Walla_logo.svg/1199px-Walla_logo.svg.png?20121102120646" tvg-id="Walla" group-title="Israel",Walla
+#EXTINF:-1 tvg-name="וואלה" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/d5/Walla_logo.svg/1199px-Walla_logo.svg.png?20121102120646" tvg-id="Walla" group-title="Israel",Walla
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-name="כאן חינוכית" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="Israel",כאן חינוכית
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+
+#EXTINF:-1 tvg-name="הידברות" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="Israel",הידברות
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+
+#EXTINF:-1 tvg-name="קבלה לעם" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="Israel",קבלה לעם
+https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="USA",Bloomberg TV
 https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
