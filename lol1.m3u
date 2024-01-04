@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://diversityisrael.org.il/wp-content/uploads/kan-200x145.png" group-title="Israel",kan 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 
