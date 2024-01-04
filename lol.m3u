@@ -2,6 +2,9 @@
 #EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://diversityisrael.org.il/wp-content/uploads/kan-200x145.png" group-title="Israel",kan 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 
+#EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/israel/sport3-il.png?raw=true" group-title="Israel",Sport 3
+https://nothinghere.com
+
 #EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",keshet 12
 https://ideorpo.alwaysdata.net/kmb.php?m3u8
 
