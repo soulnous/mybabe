@@ -32,10 +32,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.
 #EXTINF:-1 tvg-name="כאן חינוכית" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="Israel",כאן חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 
-#EXTINF:-1 tvg-name="הידברות" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="Israel",הידברות
+#EXTINF:-1 tvg-name="הידברות" tvg-logo="https://i.imgur.com/CTH4Hu2.png" tvg-id="KanEducational.il" group-title="Israel",הידברות
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 
-#EXTINF:-1 tvg-name="קבלה לעם" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="Israel",קבלה לעם
+#EXTINF:-1 tvg-name="קבלה לעם" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-id="KanEducational.il" group-title="Israel",קבלה לעם
 https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="USA",Bloomberg TV
