@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1  tvg-id="Sport5" tvg-logo="https://i.imgur.com/O7oqI3X.jpeg" group-title="Israel",Sport5
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlistMain_1_.m3u8
+
+#EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://i.imgur.com/TyF29pf.png" group-title="Israel",kan 11
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
+
+#EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://bahar-law.co.il/wp-content/uploads/2021/10/arutz12.png" group-title="Israel",keshet 12
+https://ideorpo.alwaysdata.net/kmb.php?m3u8
+
+#EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://harmonylife.co.il/wp-content/uploads/2023/03/RESHET131.png" group-title="Israel", reshet 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+
+#EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",now 14
+https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
+
+#EXTINF:-1 tvg-id="knesset" tvg-name="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
+https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
+
+#EXTINF:-1 tvg-id="shopping" tvg-name="21channel" tvg-logo="https://www.new4u.co.il/wp-content/uploads/2017/07/%D7%9C%D7%95%D7%92%D7%95-%D7%A2%D7%A8%D7%95%D7%A5-%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg" group-title="Israel",ערוץ הקניות
+https://shoppingil-rewriter.vidnt.com/index.m3u8
+
+#EXTINF:-1 tvg-name="مكان 33" tvg-logo="https://picon-13398.kxcdn.com/makan33il.jpg" tvg-id="HOT3 Israel" group-title="Israel",مكان 33
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+
+#EXTINF:-1 tvg-name="9 ערוץ Ⓨ" tvg-logo="https://picon-13398.kxcdn.com/9kanalil.jpg" tvg-id="Channel9.il" group-title="Israel",9 канал Ⓨ
+https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Ynet Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/293px-Ynet_website_logo.svg.png" tvg-id="Ynet" group-title="Israel",Ynet
+https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live_720/index.m3u8
+
+#EXTINF:-1 tvg-name="וואלה" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/d5/Walla_logo.svg/1199px-Walla_logo.svg.png?20121102120646" tvg-id="Walla" group-title="Israel",Walla
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-name="כאן חינוכית" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="Israel",כאן חינוכית
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+
+#EXTINF:-1 tvg-name="הידברות" tvg-logo="https://i.imgur.com/CTH4Hu2.png" tvg-id="KanEducational.il" group-title="Israel",הידברות
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+
+#EXTINF:-1 tvg-name="קבלה לעם" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-id="KanEducational.il" group-title="Israel",קבלה לעם
+https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
