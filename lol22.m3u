@@ -39,7 +39,4 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 
 #EXTINF:-1 tvg-name="קבלה לעם" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-id="KanEducational.il" group-title="Israel",קבלה לעם
-https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
-
-#EXTINF:-1 tvg-name="קבלה לעם" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-id="KanEducational.il" group-title="Israel",קבלה לעם
 https://d1mj4zol5huu6l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tp1e68v8mb0lb/index.m3u8
