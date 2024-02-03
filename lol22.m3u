@@ -38,5 +38,5 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1 tvg-name="הידברות" tvg-logo="https://i.imgur.com/CTH4Hu2.png" tvg-id="KanEducational.il" group-title="Israel",הידברות
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 
-#EXTINF:-1 tvg-name="קבלה לעם" tvg-logo="https://i.imgur.com/lol" tvg-id="KanEducational.il" group-title="Israel",קבלה לעם
+#EXTINF:-1 tvg-name="cnn" tvg-logo="https://www.freepnglogos.com/uploads/cnn-logo-original-hd-png-transparent-22.png" tvg-id="KanEducational.il" group-title="Israel",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
