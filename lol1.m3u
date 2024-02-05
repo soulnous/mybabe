@@ -43,3 +43,15 @@ https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 
 #EXTINF:-1 tvg-name="קבלה לעם" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-id="KanEducational.il" group-title="Israel",קבלה לעם
 https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png" tvg-id="CNN" group-title="Israel",CNN
+https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8
+
+#EXTINF:-1 tvg-name="ABC NEWS" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg" tvg-id="ABC NEWS" group-title="Israel",ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" tvg-id="NBC NEWS" group-title="Israel",NBC NEWS
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
+
+#EXTINF:-1 tvg-name="FOX Q13 NEWS" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Q13News.png" tvg-id="FOX Q13 NEWS" group-title="Israel",FOX Q13 NEWS
+https://csm-e-eb.csm.tubi.video/csm/live/622835763.m3u8?playback_start_ts=1704666696&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=555107&content_type=mp4&device_id=caec4c21-b9fb-4e15-bcc4-33cc34e9e679&language=en&now_pos=0&platform=WEB&pub_id=0a2ada522f8db273c200b95eee98d316&vpaid_enabled=true&yo.eb.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS9rY3BxL2gyNjQvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVZWTWlMQ0prWlhacFkyVmZhV1FpT2lKallXVmpOR015TVMxaU9XWmlMVFJsTVRVdFltTmpOQzB6TTJOak16UmxPV1UyTnpraUxDSmxlSEFpT2pFM01EUTVNalU0T1RNc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pWkhVNlZrbEVSVTlmVWtWVFQweFZWRWxQVGw4M01qQlFJaXdpZFhObGNsOXBaQ0k2TUgwLnVvWnJQazBncG53a0cwOWpiR0F2S3dEb1hoMkNxX1o5Mm1GeE9DZHdISjZ3T0xMRW1kbzNsM1lYd0h2TGFhMUJfQVpmazhIeXFTRDR4YlVweTdiZmpR
