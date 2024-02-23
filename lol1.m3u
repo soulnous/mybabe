@@ -30,7 +30,7 @@ https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
 
 #EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://cdn.startimestv.com/static/files/console/afa6535a-6819-46b8-bf53-e6ab2416fb47.jpg" tvg-id="Real Madrid TV" group-title="Israel",Real Madrid TV
-https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live_720/index.m3u8
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-name="וואלה" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/d5/Walla_logo.svg/1199px-Walla_logo.svg.png?20121102120646" tvg-id="Walla" group-title="Israel",Walla
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
