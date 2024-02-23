@@ -29,7 +29,7 @@ https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1 tvg-name="9 ערוץ Ⓨ" tvg-logo="https://picon-13398.kxcdn.com/9kanalil.jpg" tvg-id="Channel9.il" group-title="Israel",9 канал Ⓨ
 https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
 
-#EXTINF:-1 tvg-name="Ynet Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/293px-Ynet_website_logo.svg.png" tvg-id="Ynet" group-title="Israel",Ynet
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://cdn.startimestv.com/static/files/console/afa6535a-6819-46b8-bf53-e6ab2416fb47.jpg" tvg-id="Real Madrid TV" group-title="Israel",Real Madrid TV
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live_720/index.m3u8
 
 #EXTINF:-1 tvg-name="וואלה" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/d5/Walla_logo.svg/1199px-Walla_logo.svg.png?20121102120646" tvg-id="Walla" group-title="Israel",Walla
@@ -55,7 +55,3 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" tvg-id="NBC NEWS" group-title="Israel",NBC NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
-
-#EXTINF:-1 tvg-name="REAL MADRID TV" tvg-logo="https://cdn.startimestv.com/static/files/console/afa6535a-6819-46b8-bf53-e6ab2416fb47.jpg" tvg-id="REAL MADRID TV" group-title="Israel",REAL MADRID TV
-https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-
