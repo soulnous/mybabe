@@ -1,27 +1,36 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="sport1.il" tvg-name="IL: YES SPORT 1 HD" tvg-logo="https://i.postimg.cc/yNjgNQdc/image.png" group-title="CHANNEL | SPORTS", Sport 1 Israel KONTOL
-https://webudit.webhd.ru/lb/premium140/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+https://webudit.webhd.ru/lb/premium140/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="sport2.il" tvg-name="IL: Sport 2 FHD" tvg-logo="https://i.postimg.cc/MGmRQZsc/image.png" group-title="CHANNEL | SPORTS", Sport 2 Israel KONTOL
-https://webudit.webhd.ru/lb/premium141/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+https://webudit.webhd.ru/lb/premium141/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="sport3.il" tvg-name="IL: YES SPORT 3 HD" tvg-logo="https://i.postimg.cc/VLJjV8NT/image.png" group-title="CHANNEL | SPORTS", Sport 3 Israel KONTOL
-https://webudit.webhd.ru/lb/premium142/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+https://webudit.webhd.ru/lb/premium142/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="sport4.il" tvg-name="IL: Sport 4 FHD" tvg-logo="https://i.postimg.cc/m2kwW9mm/image.png" group-title="CHANNEL | SPORTS", Sport 4 Israel KONTOL
-https://webudit.webhd.ru/lb/premium143/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+https://webudit.webhd.ru/lb/premium143/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="sport5.il" tvg-name="IL: SPORT 5 HQ" tvg-logo="https://i.postimg.cc/xdM5FS6Y/image.png" group-title="CHANNEL | SPORTS", Sport 5 Israel KONTOL
-https://webudit.webhd.ru/lb/premium144/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+https://webudit.webhd.ru/lb/premium144/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="5plus.il" tvg-name="IL: Sport 5 Plus FHD" tvg-logo="https://i.postimg.cc/dt6z4GLn/image.png" group-title="CHANNEL | SPORTS", Sport 5 PLUS Israel KONTOL
-https://webudit.webhd.ru/lb/premium145/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+https://webudit.webhd.ru/lb/premium145/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="5live.il" tvg-name="IL: SPORT 5 Live HQ" tvg-logo="https://i.postimg.cc/T1gTK19F/Sport5-live.png" group-title="CHANNEL | SPORTS", Sport 5 Live Israel KONTOL
-https://webudit.webhd.ru/lb/premium146/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+https://webudit.webhd.ru/lb/premium146/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="5stars.il" tvg-name="IL: Sport 5 Stars FHD" tvg-logo="https://i.postimg.cc/xdM5FS6Y/image.png" group-title="CHANNEL | SPORTS", Sport 5 Star Israel KONTOL
-https://webudit.webhd.ru/lb/premium147/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+https://webudit.webhd.ru/lb/premium147/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="5plusgold.il" tvg-name="IL: Sport 5 Gold" tvg-logo="https://i.postimg.cc/ydhfWzRn/image.png" group-title="CHANNEL | SPORTS", Sport 5 Gold Israel KONTOL
-https://webudit.webhd.ru/lb/premium148/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+https://webudit.webhd.ru/lb/premium148/index.m3u8|Origin=https://weblivehdplay.ru
