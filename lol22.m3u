@@ -1,42 +1,1303 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="Sport5" tvg-logo="https://i.imgur.com/O7oqI3X.jpeg" group-title="Israel",Sport5
-https://rgelive.akamaized.net/hls/live/2043095/live3/playlistMain_1_.m3u8
-
-#EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://i.imgur.com/TyF29pf.png" group-title="Israel",kan 11
-https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
-
-#EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://bahar-law.co.il/wp-content/uploads/2021/10/arutz12.png" group-title="Israel",keshet 12
-https://ideorpo.alwaysdata.net/kmb.php?m3u8
-
-#EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://harmonylife.co.il/wp-content/uploads/2023/03/RESHET131.png" group-title="Israel", reshet 13
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
-
-#EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",now 14
-https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
-
-#EXTINF:-1 tvg-id="knesset" tvg-name="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
-https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
-
-#EXTINF:-1 tvg-id="shopping" tvg-name="21channel" tvg-logo="https://www.new4u.co.il/wp-content/uploads/2017/07/%D7%9C%D7%95%D7%92%D7%95-%D7%A2%D7%A8%D7%95%D7%A5-%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg" group-title="Israel",ערוץ הקניות
-https://shoppingil-rewriter.vidnt.com/index.m3u8
-
-#EXTINF:-1 tvg-name="مكان 33" tvg-logo="https://picon-13398.kxcdn.com/makan33il.jpg" tvg-id="HOT3 Israel" group-title="Israel",مكان 33
-https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
-
-#EXTINF:-1 tvg-name="9 ערוץ Ⓨ" tvg-logo="https://picon-13398.kxcdn.com/9kanalil.jpg" tvg-id="Channel9.il" group-title="Israel",9 канал Ⓨ
-https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
-
-#EXTINF:-1 tvg-name="Ynet Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/293px-Ynet_website_logo.svg.png" tvg-id="Ynet" group-title="Israel",Ynet
-https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live_720/index.m3u8
-
-#EXTINF:-1 tvg-name="וואלה" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/d5/Walla_logo.svg/1199px-Walla_logo.svg.png?20121102120646" tvg-id="Walla" group-title="Israel",Walla
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-name="כאן חינוכית" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="Israel",כאן חינוכית
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
-
-#EXTINF:-1 tvg-name="הידברות" tvg-logo="https://i.imgur.com/CTH4Hu2.png" tvg-id="KanEducational.il" group-title="Israel",הידברות
-https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
-
-#EXTINF:-1 tvg-name="cnn" tvg-logo="https://www.freepnglogos.com/uploads/cnn-logo-original-hd-png-transparent-22.png" tvg-id="KanEducational.il" group-title="Israel",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0,Live 24 IPTV
+#EXTGRP:KURDISH
+https://l.top4top.io/m_2779wz6wa1.mp4
+#EXTINF:0,K24
+#EXTGRP:KURDISH
+https://d1x82nydcxndze.cloudfront.net/live/index_360p25.m3u8
+#EXTINF:0,rudawtv
+#EXTGRP:KURDISH
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:0,NRT HD
+#EXTGRP:KURDISH
+https://media.streambrothers.com:1936/8226/8226/chunklist_w635932628.m3u8
+#EXTINF:0,Kurdistan TV
+#EXTGRP:KURDISH
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w723570520_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:0,MMN NEWS
+#EXTGRP:KURDISH
+http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
+#EXTINF:0,KURDSAT
+#EXTGRP:KURDISH
+https://kurdsat.akamaized.net/hls/stream_0.m3u8
+#EXTINF:0,GEWHER
+#EXTGRP:KURDISH
+http://avrstream.com:1935/live/Gewher-HD/playlist.m3u8
+#EXTINF:0,Channel 8 kurdish
+#EXTGRP:KURDISH
+https://live.channel8.com/Channel8-Kurdish/tracks-v2a1/mono.m3u8
+#EXTINF:0,TRT KURDI
+#EXTGRP:KURDISH
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,WAAR TV
+#EXTGRP:KURDISH
+https://ikomg4.s.llnwi.net/waarhd/stream_0.m3u8
+#EXTINF:0,Bangxwazen badinan
+#EXTGRP:KURDISH
+http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/chunklist_w1714887253.m3u8
+#EXTINF:0,DUHOK HD
+#EXTGRP:KURDISH
+http://xtv.ooo:8080/live/zaheeruddenbabar/6592047/351738.ts
+#EXTINF:0,Dasnya HD
+#EXTGRP:KURDISH
+http://aro4us.com:80/live/Layali.Diab/jeosimeYAJ/281886.ts
+#EXTINF:0,Zaxo HD LOCAL
+#EXTGRP:KURDISH
+http://xtv.ooo:8080/live/zaheeruddenbabar/6592047/351771.ts
+#EXTINF:0,LIVE24 COMEDY
+#EXTGRP:KURDISH
+http://forevertv.me:8080/live/Elias1/1234/157862.m3u8
+#EXTINF:0,SPEDA
+#EXTGRP:KURDISH
+http://speda.dwasat.com/upload/images/spedahd.m3u8
+#EXTINF:0,Speda Drama
+#EXTGRP:KURDISH
+https://speda.dwasat.com/upload/images/spedadrama.m3u8
+#EXTINF:0,kurdmax badini
+#EXTGRP:KURDISH
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxBadine0!/chunklist_w58218958.m3u8
+#EXTINF:0,KURDMAX SHOW
+#EXTGRP:KURDISH
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/chunklist_w678254619.m3u8
+#EXTINF:0,KURDMAX MUZIK
+#EXTGRP:KURDISH
+http://31.14.40.139:1935/music/livestream/chunklist_w1513654711.m3u8
+#EXTINF:0,AMED
+#EXTGRP:KURDISH
+http://live.amedradyotv.net:2020/hls/ferat.m3u8
+#EXTINF:0,NUBARPlus
+#EXTGRP:KURDISH
+http://stream.nubar.tv:1935/private/NUBARPlus/chunklist.m3u8
+#EXTINF:0,NUBARtv
+#EXTGRP:KURDISH
+http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
+#EXTINF:0,BEFRIN
+#EXTGRP:KURDISH
+http://avrstream.com:1935/live/BEFRIN-HD/chunklist_w1716223484.m3u8
+#EXTINF:0,RAVAND TV
+#EXTGRP:KURDISH
+http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
+#EXTINF:0,ZAVAR-TV
+#EXTGRP:KURDISH
+http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/chunklist_w652611666.m3u8
+#EXTINF:0,DEVER
+#EXTGRP:KURDISH
+http://iptvtree.net:8080/live/george123/ffc38b62w/81276.ts
+#EXTINF:0,NRT 2
+#EXTGRP:KURDISH
+http://198.100.158.231:1935/live/nrt2/chunklist_w2087104489.m3u8
+#EXTINF:0,Kani tv
+#EXTGRP:KURDISH
+http://nordicstream.xyz:2095/live/e173z800/aU7hxug/120413.m3u8
+#EXTINF:0,DALAL TV HD
+#EXTGRP:KURDISH
+http://xtv.ooo:8080/zaheeruddenbabar/6592047/351737
+#EXTINF:0,kurdcinema
+#EXTGRP:KURDISH
+http://185.166.24.38:25461/live/kurdcinema/kurdcinema/1400.m3u8
+#EXTINF:0,Barin Movies
+#EXTGRP:KURDISH
+http://baskhd.ddns.net:40/live//barinmovieSHD/chunklist_w1584558241.m3u8
+#EXTINF:0,Astera Family
+#EXTGRP:KURDISH
+http://iptv.onebox.krd:25461/onebox/onebox/175
+#EXTINF:0,BK4
+#EXTGRP:KURDISH
+http://85.237.89.6:9590/live/bk4tv/tracks-v1a1/mono.m3u8
+#EXTINF:0,ZED TV
+#EXTGRP:KURDISH
+http://85.237.89.6:9590/ku/local-ZED-HD-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:0,ATV KURD HD
+#EXTGRP:KURDISH
+http://forevertv.me:8080/live/Elias1/1234/28027.ts
+#EXTINF:0,Atv kurd
+#EXTGRP:KURDISH
+http://familyku.me:2095/200348354168/1928247646650c30a413472/28027
+#EXTINF:0,XABIR HD
+#EXTGRP:KURDISH
+http://forevertv.me:8080/live/Elias1/1234/169740.ts
+#EXTINF:0,PAYAM
+#EXTGRP:KURDISH
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:0,NRT2 BADINI
+#EXTGRP:KURDISH
+http://185.95.184.33:25461/live/nextnet/3738/152.ts
+#EXTINF:0,MMN ACTION
+#EXTGRP:KURDISH
+http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
+#EXTINF:0,MMN DRAMA
+#EXTGRP:KURDISH
+http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8
+#EXTINF:0,MMN SHOW
+#EXTGRP:KURDISH
+http://mmn.mypsx.net:1935/live/mmnhddshow/playlist.m3u8
+#EXTINF:0,MMN MUSIC
+#EXTGRP:KURDISH
+http://mmn.mypsx.net:1935/live/mmnhdclasicmusical/chunklist_w463726670.m3u8
+#EXTINF:0,SHAR-TV-HD
+#EXTGRP:KURDISH
+http://62.67.13.53:1935/live/SHAR-TV-HD-KB2023929/chunklist_w1792694432.m3u8
+#EXTINF:0,ALA HD
+#EXTGRP:KURDISH
+http://avrstream.com:1935/live/ala-hd/chunklist_w2129836308.m3u8
+#EXTINF:0,RAM-TV
+#EXTGRP:KURDISH
+http://85.237.89.6:9590/live/RAM-TV/tracks-v1a1/mono.m3u8
+#EXTINF:0,Dasnya TV
+#EXTGRP:KURDISH
+http://duhok.badinan.xyz:1935/live/d1/playlist.m3u8
+#EXTINF:0,halabjatv
+#EXTGRP:KURDISH
+http://halabjatv.ddns.net:40/live/halabjatv/chunklist_w30596374.m3u8
+#EXTINF:0,Delal tv
+#EXTGRP:KURDISH
+http://forevertv.me:8080/live/Elias1/1234/169677.ts
+#EXTINF:0,Amozhgary tv
+#EXTGRP:KURDISH
+http://iptv.onebox.krd:25461/live/onebox/onebox/157.m3u8
+#EXTINF:0,bangawaz TV
+#EXTGRP:KURDISH
+http://baskhd.ddns.net:40/live/bangawaztv/chunklist_w1648048005.m3u8
+#EXTINF:0,istar folklor
+#EXTGRP:KURDISH
+http://85.237.89.6:9590/ku/local-ISTAR-Folklor-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:0,koya tv
+#EXTGRP:KURDISH
+http://avrstream.com:1935/live/KoyaHD/chunklist_w340575498.m3u8
+#EXTINF:0,zagrostv
+#EXTGRP:KURDISH
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w991070879_b500000_sleng_t64MzYwcA==.m3u8
+#EXTINF:0,21 ADARE
+#EXTGRP:KURDISH
+http://xtv.ooo:8080/live/zaheeruddenbabar/6592047/351736.ts
+#EXTINF:0,KurdChannel
+#EXTGRP:KURDISH
+https://kurd-channel.ikoflix.com/hls/stream_0.m3u8
+#EXTINF:0,Sahar Kurdi
+#EXTGRP:KURDISH
+http://95.216.180.111:1935/live/103/chunklist_w611733893.m3u8
+#EXTINF:0,aryen.tv
+#EXTGRP:KURDISH
+https://aryen.tv/live/tv/chunklist_w434874309.m3u8
+#EXTINF:0,STERK
+#EXTGRP:KURDISH
+http://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist_w208463919_b5160000_sleng.m3u8
+#EXTINF:0,chawhd
+#EXTGRP:KURDISH
+http://chaw.mymediapc.net:40/live/chawhd/chunklist_w2131513624.m3u8
+#EXTINF:0,Zaxo
+#EXTGRP:KURDISH
+http://forevertv.me:8080/live/Elias1/1234/162751.m3u8
+#EXTINF:0,Duhok TV
+#EXTGRP:KURDISH
+http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1238219452.m3u8
+#EXTINF:0,Kamal tv
+#EXTGRP:KURDISH
+http://avrstream.com:1935/live/KamalTV/playlist.m3u8
+#EXTINF:0,ISHTAR
+#EXTGRP:KURDISH
+http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist_w1921995643.m3u8
+#EXTINF:0,Nat Geo AD
+#EXTGRP:Documentary
+http://iptv.nextnet.krd:25461/nextnet/3738/4362
+#EXTINF:0,mmnhddocumentary
+#EXTGRP:Documentary
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
+#EXTINF:0,ALJAZEERA DOCUMENTARY
+#EXTGRP:Documentary
+https://live-hls-web-ajd.getaj.net:443/AJD/01.m3u8
+#EXTINF:0,TRT BELGESEL
+#EXTGRP:Documentary
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,Wild life
+#EXTGRP:Documentary
+https://d1vp12yk4i8ou5.cloudfront.net/playlist540p.m3u8
+#EXTINF:0,wildplanet
+#EXTGRP:Documentary
+https://d3c7duantorcb1.cloudfront.net/amgwildplanetuk/playlist540p.m3u8
+#EXTINF:0,Live24 Documentary HD
+#EXTGRP:Documentary
+https://quintus-radicaldocs-1-se.samsung.wurl.tv/3000.m3u8
+#EXTINF:0,Live 24 WILD 1
+#EXTGRP:Documentary
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3720
+#EXTINF:0,Live 24 vip 1
+#EXTGRP:Documentary
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3717
+#EXTINF:0,Live 24 vip 2
+#EXTGRP:Documentary
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/1192
+#EXTINF:0,asharqdocumentary
+#EXTGRP:Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentary_source_chunks_dvr.m3u8
+#EXTINF:0,National Geographic Wild HD
+#EXTGRP:Documentary
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/133/index.m3u8
+#EXTINF:0,CGTN Documentary
+#EXTGRP:Documentary
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:0,ANIMAL PLANET
+#EXTGRP:Documentary
+http://135.181.1.235/ANIMALPLANETHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,TRAVEL
+#EXTGRP:Documentary
+https://streamer103.neterra.tv/travel/travel_SD.m3u8
+#EXTINF:0,nat geo
+#EXTGRP:Documentary
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/134/index.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:Documentary
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2358/index.m3u8
+#EXTINF:0,Planet Earth HD AR
+#EXTGRP:Documentary
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/869
+#EXTINF:0,TLC
+#EXTGRP:Documentary
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/232/index.m3u8
+#EXTINF:0,FISHING TV
+#EXTGRP:Documentary
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist_1280x720.m3u8
+#EXTINF:0,italianfishingtv
+#EXTGRP:Documentary
+https://itftv-italianfishingtv-1-it.samsung.wurl.tv/3000.m3u8
+#EXTINF:0,CGTN French
+#EXTGRP:Documentary
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:0,xtremaanimal
+#EXTGRP:Documentary
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/chunklist_w31659815.m3u8
+#EXTINF:0,LOVE NATURE 4K
+#EXTGRP:Documentary
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:0,FOOD FOOD
+#EXTGRP:Documentary
+https://distrotv-foodfood.planetcast.in/HQpDN7/master_480.m3u8
+#EXTINF:0,KITCHEN NIGHT
+#EXTGRP:Documentary
+https://d12hafsmzbqmzo.cloudfront.net/playlist540Pl.m3u8
+#EXTINF:0,COCKING
+#EXTGRP:Documentary
+https://stream.ads.ottera.tv/cl/231129clj9c6aouc65k15hrcbg/1280x720_2300000_0_f.m3u8?i=475_46
+#EXTINF:0,HUNGRY
+#EXTGRP:Documentary
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0,zinanaturelife
+#EXTGRP:Documentary
+http://85.237.89.6:9590/live/zinanaturelife/tracks-v1a1/mono.m3u8
+#EXTINF:0,ZINA WILD
+#EXTGRP:Documentary
+http://85.237.89.6:9590/live/zinatvwild/tracks-v1a1/mono.m3u8
+#EXTINF:0,4TEEN DOC ARABIC
+#EXTGRP:Documentary
+https://livestream.almanasa.tv:8048/enter/ch9/ch9_1080.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP:Documentary
+http://iptv.onebox.krd:25461/onebox/onebox/145
+#EXTINF:0,Astera Baby
+#EXTGRP:KIDS
+http://iptv.onebox.krd:25461/onebox/onebox/199
+#EXTINF:0,kidssong
+#EXTGRP:KIDS
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:0,shakroktv
+#EXTGRP:KIDS
+http://161.97.142.119:8080/hls/shakroktv.m3u8
+#EXTINF:0,Niroj Kids
+#EXTGRP:KIDS
+http://85.237.89.6:9590/live/Niroj_KidsHD_localDuhok/index.m3u8
+#EXTINF:0,FIRST KIDS
+#EXTGRP:KIDS
+http://firsthd.ddns.net:40/live/first4k/chunklist_w117056385.m3u8
+#EXTINF:0,afarinTV
+#EXTGRP:KIDS
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w1508894195.m3u8
+#EXTINF:0,DUCK TV
+#EXTGRP:KIDS
+https://mmm-ducktv-4-eu.rakuten.wurl.tv/54a4dd0715b9e903a03368ad03a9f180.m3u8
+#EXTINF:0,ROTANA KIDS
+#EXTGRP:KIDS
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:0,TOYOR JANNA
+#EXTGRP:KIDS
+http://149.100.11.252:8000/play/a03n/index.m3u8
+#EXTINF:0,Spacetoon
+#EXTGRP:KIDS
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w1889514296_b946000_slAR.m3u8
+#EXTINF:0,CN ARABIA
+#EXTGRP:KIDS
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:0,cartoonnetwork
+#EXTGRP:KIDS
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-240p.m3u8
+#EXTINF:0,majid
+#EXTGRP:KIDS
+https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:0,afarintv RADIO
+#EXTGRP:KIDS
+http://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/chunklist_w978976202.m3u8
+#EXTINF:0,TELETUBBIES
+#EXTGRP:KIDS
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/2000.m3u8
+#EXTINF:0,KIKA DEUTCH
+#EXTGRP:KIDS
+https://s4.hopslan.com/kika/tracks-v1a1/mono.m3u8?token=2c011fe66e88d539a18ad137443ee5147ec24d47-5418ee115afed816723f1bf2322717a4-1669936692-1669925892
+#EXTINF:0,Gulli
+#EXTGRP:KIDS
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/NA/v8ib2IW/index.m3u8
+#EXTINF:0,Istar kids
+#EXTGRP:KIDS
+http://185.209.72.129:3303/IstarKids/tracks-v1a1/mono.m3u8?token=05199fda431b450f
+#EXTINF:0,Brat TV
+#EXTGRP:KIDS
+https://brat-samsung-us.amagi.tv/playlist480p.m3u8
+#EXTINF:0,CAILOU TV
+#EXTGRP:KIDS
+https://dhx-caillou-2-fr.samsung.wurl.tv/1200.m3u8
+#EXTINF:0,Kurdmax papule
+#EXTGRP:KIDS
+http://iptv.onebox.krd:25461/onebox/onebox/197
+#EXTINF:0,Live24 Kids 1
+#EXTGRP:KIDS
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2370/index.m3u8
+#EXTINF:0,Live24 Kids 2
+#EXTGRP:KIDS
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12242/index.m3u8
+#EXTINF:0,Live24 Kids 3
+#EXTGRP:KIDS
+http://89.36.196.28:1936/live/qallam-kids/chunklist_w1784377495.m3u8
+#EXTINF:0,Pelistank Tv
+#EXTGRP:KIDS
+http://iptv.onebox.krd:25461/live/onebox/onebox/187.m3u8
+#EXTINF:0,KIDSSONG2
+#EXTGRP:KIDS
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0,LIVE 24 SPORT GLOBAL HD
+#EXTGRP:Sports HD
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+#EXTINF:0,LIVE 24 SPORT 1
+#EXTGRP:Sports HD
+http://85.237.89.6:9590/ku/Live-Zaxo-Sport/tracks-v1a1/mono.m3u8
+#EXTINF:0,LIVE 24 SPORT 2
+#EXTGRP:Sports HD
+https://bee.fun:2083/channel-1-plus/tracks-v1a1/mono.m3u8
+#EXTINF:0,LIVE 24 SPORT 3
+#EXTGRP:Sports HD
+http://130.193.165.162/lbengine/+ph/sc8yZL__ih__ufPG1__hi__By1rVqHDKtu4Q12sNB5bzOpCs1HMkXfuMAUp2A11cH6WulSza2L0pAQrP6__hi__Xydd2tF54jFRDzXiN__ih____ih__MR9QDhtq__hi__3ErjdWgaLdY466bZD0t1mlxPdNMWI7A913em0aF9xXdWZYR9kE7__hi__zQNksJurzCVy__hi____ih__p83NQdL9AT__hi__N1Xc12UwrDHOuc9Rj1mwK5UYrkyabyYe__hi__rKGzJx8xuhXbEfcQIE9C7j7XdxqiALSgHKStZLAMD5Ej9YH7OSJ9DTZ0kbGaxob3PA6Q0OcrYkBpWc5pnMEo0gM8__ih__k=---/cache/AVA-Sport-HD-LB/master.m3u8
+#EXTINF:0,LIVE 24 SPORT 4
+#EXTGRP:Sports HD
+http://140.82.34.56/My,Tvdfgdfplus=---/cache/Astera-Sport-LB/m3u8/Astera-Sport-HD_tracks-v1a1_mono.m3u8
+#EXTINF:0,LIVE 24 SPORT 5
+#EXTGRP:Sports HD
+http://85.237.89.6:9590/ku/Live-LD-Sport/tracks-v1a1/mono.m3u8
+#EXTINF:0,LIVE 24 SPORT 6
+#EXTGRP:Sports HD
+https://bee.fun:2087/ssport1/tracks-v1a1/mono.m3u8
+#EXTINF:0,LIVE 24 SPORT 7
+#EXTGRP:Sports HD
+https://bee.fun:2087/ssc1/tracks-v1a1/mono.m3u8
+#EXTINF:0,LIVE 24 SPORT 8
+#EXTGRP:Sports HD
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2362/index.m3u8
+#EXTINF:0,LIVE 24 SPORT 9
+#EXTGRP:Sports HD
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/7304/index.m3u8
+#EXTINF:0,LIVE 24 SPORT SERIE A
+#EXTGRP:Sports HD
+https://bee.fun:2087/ssport8/tracks-v1a1/mono.m3u8
+#EXTINF:0,LIVE 24 SPORT SERIE A
+#EXTGRP:Sports HD
+http://iptv.onebox.krd:25461/onebox/onebox/4349
+#EXTINF:0,Live 24 SSC 1
+#EXTGRP:Sports HD
+https://bee.fun:2087/ssc1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Live 24 SSC 2
+#EXTGRP:Sports HD
+https://af.ayassport.ir/hls2/ssc1.m3u8
+#EXTINF:0,Live 24 Extra1
+#EXTGRP:Sports HD
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:0,Live 24 Extra2
+#EXTGRP:Sports HD
+http://185.95.184.33:25461/live/nextnet/3738/4361.ts.
+#EXTINF:0,Live 24 Extra3
+#EXTGRP:Sports HD
+http://185.95.184.33:25461/live/nextnet/3738/106.ts
+#EXTINF:0,Live 24 Extra4
+#EXTGRP:Sports HD
+http://185.95.184.33:25461/live/nextnet/3738/167.ts
+#EXTINF:0,Live 24 Match 1
+#EXTGRP:Sports HD
+http://185.95.184.33:25461/live/nextnet/3738/4321
+#EXTINF:0,Live 24 Match 2
+#EXTGRP:Sports HD
+http://185.95.184.33:25461/live/nextnet/3738/150.ts
+#EXTINF:0,Live 24 Match 3
+#EXTGRP:Sports HD
+http://185.95.184.33:25461/live/nextnet/3738/4360.ts
+#EXTINF:0,Live 24 Match 4
+#EXTGRP:Sports HD
+http://185.95.184.33:25461/live/nextnet/3738/4360.ts
+#EXTINF:0,Nubar Sport
+#EXTGRP:Sports HD
+http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
+#EXTINF:0,IRAQIA SPORT
+#EXTGRP:IRAQ SPORT
+https://livestream.almanasa.tv:8130/sport/ch6/ch6_1080.m3u8
+#EXTINF:0,BEE SPORT1
+#EXTGRP:IRAQ SPORT
+https://bee.fun:2087/ssport1/tracks-v1a1/mono.m3u8
+#EXTINF:0,BEE SPORT2
+#EXTGRP:IRAQ SPORT
+https://bee.fun:2087/ssport3/tracks-v1a1/mono.m3u8
+#EXTINF:0,channel-1-plus
+#EXTGRP:IRAQ SPORT
+https://bee.fun:2083/channel-1-plus/tracks-v1a1/mono.m3u8
+#EXTINF:0,Zaxo Sport
+#EXTGRP:IRAQ SPORT
+http://iptv.onebox.krd:25461/onebox/onebox/4361
+#EXTINF:0,LD Sport
+#EXTGRP:IRAQ SPORT
+http://85.237.89.6:9590/ku/Live-LD-Sport/tracks-v1a1/mono.m3u8
+#EXTINF:0,premium2
+#EXTGRP:IRAQ SPORT
+https://bee.fun:2087/premium2/tracks-v1a1/mono.m3u8
+#EXTINF:0,premium1
+#EXTGRP:IRAQ SPORT
+https://bee.fun:2087/premium1/tracks-v1a1/mono.m3u8
+#EXTINF:0,premium3
+#EXTGRP:IRAQ SPORT
+https://bee.fun:2087/premium3/tracks-v1a1/mono.m3u8
+#EXTINF:0,Dalal Sport
+#EXTGRP:IRAQ SPORT
+http://iptvtree.net:8080/live/george123/ffc38b62w/300710.ts
+#EXTINF:0,Dasnya Sport HD
+#EXTGRP:IRAQ SPORT
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4319
+#EXTINF:0,Duhok Sports
+#EXTGRP:IRAQ SPORT
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4317
+#EXTINF:0,DUHOK SPORT HD
+#EXTGRP:IRAQ SPORT
+http://fg146.site:8080/live/Ehedigdir/ZK8yLRuPdM3j/157052.ts
+#EXTINF:0,NRT SPORT HD
+#EXTGRP:IRAQ SPORT
+http://iptv.onebox.krd:25461/onebox/onebox/167
+#EXTINF:0,beIN Sports1
+#EXTGRP:beIN Sports LIVE
+http://mynetworks.info/live/808080/909090/1624.m3u8
+#EXTINF:0,beIN Sports2
+#EXTGRP:beIN Sports LIVE
+http://mynetworks.info/live/808080/909090/1625.m3u8
+#EXTINF:0,beIN Sports3
+#EXTGRP:beIN Sports LIVE
+http://mynetworks.info/live/808080/909090/1626.m3u8
+#EXTINF:0,beIN Sports 4
+#EXTGRP:beIN Sports LIVE
+http://mynetworks.info/live/808080/909090/1627.m3u8
+#EXTINF:0,beIN Sports 5
+#EXTGRP:beIN Sports LIVE
+http://mynetworks.info/live/808080/909090/1628.m3u8
+#EXTINF:0,Been 1
+#EXTGRP:beeN Sports 2MB
+http://stream.f5x.online:6071/LiveApp/ch01/tracks-v1a1/mono.m3u8
+#EXTINF:0,Been 2
+#EXTGRP:beeN Sports 2MB
+http://stream.f5x.online:6071/LiveApp/ch02/tracks-v1a1/mono.m3u8
+#EXTINF:0,Been 3
+#EXTGRP:beeN Sports 2MB
+http://stream.f5x.online:6071/LiveApp/ch03/tracks-v1a1/mono.m3u8
+#EXTINF:0,Been 4
+#EXTGRP:beeN Sports 2MB
+http://stream.f5x.online:6071/LiveApp/ch04/tracks-v1a1/mono.m3u8
+#EXTINF:0,Been 5
+#EXTGRP:beeN Sports 2MB
+http://stream.f5x.online:6071/LiveApp/ch05/tracks-v1a1/mono.m3u8
+#EXTINF:0,Been 6
+#EXTGRP:beeN Sports 2MB
+http://stream.f5x.online:6071/LiveApp/ch06/tracks-v1a1/mono.m3u8
+#EXTINF:0,Been 7
+#EXTGRP:beeN Sports 2MB
+http://stream.f5x.online:6071/LiveApp/ch07/tracks-v1a1/mono.m3u8
+#EXTINF:0,Been 8
+#EXTGRP:beeN Sports 2MB
+http://stream.f5x.online:6071/LiveApp/ch08/tracks-v1a1/mono.m3u8
+#EXTINF:0,Been 9
+#EXTGRP:beeN Sports 2MB
+http://stream.f5x.online:6071/LiveApp/ch09/tracks-v1a1/mono.m3u8
+#EXTINF:0,Been 10
+#EXTGRP:beeN Sports 2MB
+http://stream.f5x.online:6071/LiveApp/ch10/tracks-v1a1/mono.m3u8
+#EXTINF:0,Been 11
+#EXTGRP:beeN Sports 2MB
+http://stream.f5x.online:6071/LiveApp/ch11/tracks-v1a1/mono.m3u8
+#EXTINF:0,Been 12
+#EXTGRP:beeN Sports 2MB
+http://stream.f5x.online:6071/LiveApp/ch12/tracks-v1a1/mono.m3u8
+#EXTINF:0,Been 13
+#EXTGRP:beeN Sports 2MB
+http://stream.f5x.online:6071/LiveApp/ch13/tracks-v1a1/mono.m3u8
+#EXTINF:0,beIN Sports 1
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3221
+#EXTINF:0,beIN Sports 2
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3222
+#EXTINF:0,beIN Sports 3
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3224
+#EXTINF:0,beIN Sports 4
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/59
+#EXTINF:0,beIN Sports 5
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3226
+#EXTINF:0,beIN Sports 6
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3227
+#EXTINF:0,Bein Sports 7
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3228
+#EXTINF:0,Bein Sports 8
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3230
+#EXTINF:0,Bein Sports 9
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4033
+#EXTINF:0,beIN SPORTS XTRA 1
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4095
+#EXTINF:0,beIN SPORTS XTRA 2
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4096
+#EXTINF:0,beIN SPORTS XTRA 3
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4299
+#EXTINF:0,beIN SPORTS ENGLISH 1
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3001
+#EXTINF:0,beIN SPORTS ENGLISH 2
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4295
+#EXTINF:0,beIN SPORTS FRENCH 1
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3972
+#EXTINF:0,beIN SPORTS FRENCH 2
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4296
+#EXTINF:0,beIN SPORTS FRENCH 3
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4297
+#EXTINF:0,beIN SPORTS AFC
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4300
+#EXTINF:0,beIN SPORTS AFC 1
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4301
+#EXTINF:0,beIN SPORTS AFC 2
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4302
+#EXTINF:0,beIN SPORTS AFC 3
+#EXTGRP:beIN Sports
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4303
+#EXTINF:0,Bein Sports 1
+#EXTGRP:BeinSport TURKYE
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/19065/index.m3u8
+#EXTINF:0,Bein Sport HABER
+#EXTGRP:BeinSport TURKYE
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/19064/index.m3u8
+#EXTINF:0,SMART SPOR
+#EXTGRP:BeinSport TURKYE
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/19070/index.m3u8
+#EXTINF:0,SMART SPOR2
+#EXTGRP:BeinSport TURKYE
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/19073/index.m3u8
+#EXTINF:0,TIVIBU SPOR
+#EXTGRP:BeinSport TURKYE
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/19075/index.m3u8
+#EXTINF:0,TIVIBU SPOR1
+#EXTGRP:BeinSport TURKYE
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/19074/index.m3u8
+#EXTINF:0,TIVIBU SPOR3
+#EXTGRP:BeinSport TURKYE
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/19076/index.m3u8
+#EXTINF:0,A SPOR
+#EXTGRP:BeinSport TURKYE
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/19069/index.m3u8
+#EXTINF:0,TRT SPOR HD
+#EXTGRP:BeinSport TURKYE
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/19067/index.m3u8
+#EXTINF:0,Tennis Channel
+#EXTGRP:Sports
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:0,WWE
+#EXTGRP:Sports
+https://d2p372oxiwmcn1.cloudfront.net/hls/720plo/playlist.m3u8
+#EXTINF:0,WWE HD
+#EXTGRP:Sports
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:0,lequipe FR
+#EXTGRP:Sports
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+#EXTINF:0,AD SPORT1
+#EXTGRP:Sports
+http://startv365.com/8059765630/3322606439/112544
+#EXTINF:0,AD SPORT2
+#EXTGRP:Sports
+http://startv365.com/8059765630/3322606439/112538
+#EXTINF:0,Real Madrid TV
+#EXTGRP:Sports
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:0,Band Sport
+#EXTGRP:Sports
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/23
+#EXTINF:0,Sport 1
+#EXTGRP:Sports
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/14
+#EXTINF:0,AD SPORT1 PREMIUM
+#EXTGRP:Sports
+https://livestream.almanasa.tv:8132/sport/ch7/ch7_360.m3u8
+#EXTINF:0,IRAQIA SPORT
+#EXTGRP:Sports
+https://livestream.almanasa.tv:8130/sport/ch6/ch6_1080.m3u8
+#EXTINF:0,Sport2
+#EXTGRP:Sports
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
+#EXTINF:0,Eleven Sports 1 HD
+#EXTGRP:Sports
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/2531/index.m3u8
+#EXTINF:0,Al Fajer 1
+#EXTGRP:Sports
+http://myteve.online:8080/george123/ffc38b62w/266285
+#EXTINF:0,Eleven Sports 2 HD
+#EXTGRP:Sports
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/2532/index.m3u8
+#EXTINF:0,SPORT TV 1 HD PT
+#EXTGRP:Sports
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/2525/index.m3u8
+#EXTINF:0,SPORT TV 2 HD PT
+#EXTGRP:Sports
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/2526/index.m3u8
+#EXTINF:0,Ziggo Sport Voetbal NL
+#EXTGRP:Sports
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/2561/index.m3u8
+#EXTINF:0,PREMIER SPORTS UK
+#EXTGRP:Sports
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/6555/index.m3u8
+#EXTINF:0,TRT SPOR HD
+#EXTGRP:Sports
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/19067/index.m3u8
+#EXTINF:0,Cosmote Sport1
+#EXTGRP:Sports
+http://www.premiumiptvmk.com:8080/george123/ffc38b62w/124
+#EXTINF:0,Cosmote Sport2
+#EXTGRP:Sports
+http://www.premiumiptvmk.com:8080/george123/ffc38b62w/125
+#EXTINF:0,Super Sport 1
+#EXTGRP:Sports
+http://www.premiumiptvmk.com:8080/george123/ffc38b62w/11633
+#EXTINF:0,Super Sport 2
+#EXTGRP:Sports
+http://www.premiumiptvmk.com:8080/george123/ffc38b62w/11634
+#EXTINF:0,Super Sport 3
+#EXTGRP:Sports
+http://www.premiumiptvmk.com:8080/george123/ffc38b62w/11635
+#EXTINF:0,Nova Sport 1
+#EXTGRP:Sports
+http://www.premiumiptvmk.com:8080/george123/ffc38b62w/12844
+#EXTINF:0,Nova Sport Premier league
+#EXTGRP:Sports
+http://www.premiumiptvmk.com:8080/george123/ffc38b62w/298889
+#EXTINF:0,motor1tv
+#EXTGRP:Sports
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/3000.m3u8
+#EXTINF:0,Eleven Sports 5
+#EXTGRP:Sports
+http://www.premiumiptvmk.com:8080/george123/ffc38b62w/1512
+#EXTINF:0,kurdcinema
+#EXTGRP:MOVIES
+http://185.166.24.38:25461/live/kurdcinema/kurdcinema/1400.m3u8
+#EXTINF:0,Sky Primafilla
+#EXTGRP:MOVIES
+http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/19120/index.m3u8
+#EXTINF:0,ISTAR-Movies
+#EXTGRP:MOVIES
+http://85.237.89.6:9590/ku/local-ISTAR-Movies-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:0,MBC Persia
+#EXTGRP:MOVIES
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_2.m3u8
+#EXTINF:0,One box movies
+#EXTGRP:MOVIES
+http://sawaiptv.vip/live/sawa23/87654321/175790.ts
+#EXTINF:0,Shahid VIP WAR
+#EXTGRP:MOVIES
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4059
+#EXTINF:0,Movies Action
+#EXTGRP:MOVIES
+http://sawaiptv.vip/live/sawa23/87654321/175802.ts
+#EXTINF:0,Netflix
+#EXTGRP:MOVIES
+http://sawaiptv.vip/live/sawa23/87654321/175808.ts
+#EXTINF:0,Horror
+#EXTGRP:MOVIES
+http://sawaiptv.vip/live/sawa23/87654321/175784.ts
+#EXTINF:0,NETFLIX N action
+#EXTGRP:MOVIES
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/2463
+#EXTINF:0,Netflex Action
+#EXTGRP:MOVIES
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/2047
+#EXTINF:0,Netflix boxoffice
+#EXTGRP:MOVIES
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4190
+#EXTINF:0,Shahid VIP TURKISH
+#EXTGRP:MOVIES
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3716
+#EXTINF:0,TOD ACTION
+#EXTGRP:MOVIES
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3728
+#EXTINF:0,TOD Horror
+#EXTGRP:MOVIES
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3729
+#EXTINF:0,TOD INDIA
+#EXTGRP:MOVIES
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3696
+#EXTINF:0,TOD wwe
+#EXTGRP:MOVIES
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3730
+#EXTINF:0,INFINITY Action
+#EXTGRP:MOVIES
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4210
+#EXTINF:0,ART Aflam 1
+#EXTGRP:MOVIES
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/997
+#EXTINF:0,ACTION HD
+#EXTGRP:MOVIES
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/1125
+#EXTINF:0,CANAL CINEMA FIHD
+#EXTGRP:MOVIES
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/1023
+#EXTINF:0,Amazon Prime Video 1 FHD
+#EXTGRP:MOVIES
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/3856
+#EXTINF:0,DOST TV
+#EXTGRP:Turkish
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:0,alzahra
+#EXTGRP:Turkish
+https://mn-nl.mncdn.com/alzahra/alzahra_hd.smil/chunklist_b3096000.m3u8
+#EXTINF:0,TV2
+#EXTGRP:Turkish
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:0,STAR
+#EXTGRP:Turkish
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:0,Euro Star
+#EXTGRP:Turkish
+https://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/chunklist_b1028000.m3u8?st=R_kaqmCsMvVteGjTY9V0fQ&
+#EXTINF:0,atv
+#EXTGRP:Turkish
+https://cdn8.alfastreamtv.com/atv.m3u8?tkn=X2fQWYJZzfTTvviARciBuA&
+#EXTINF:0,Kanal7
+#EXTGRP:Turkish
+https://kanal7.daioncdn.net/kanal7/kanal7_720p.m3u8?&
+#EXTINF:0,Kanal7 A
+#EXTGRP:Turkish
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:0,EURO D
+#EXTGRP:Turkish
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
+#EXTINF:0,KanalD
+#EXTGRP:Turkish
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+#EXTINF:0,Haberturk TV
+#EXTGRP:Turkish
+https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=5tx3pm931euh&
+#EXTINF:0,showturk
+#EXTGRP:Turkish
+https://ciner-live.ercdn.net/showturk/showturk_360p.m3u8?e=1688570546&
+#EXTINF:0,showtv
+#EXTGRP:Turkish
+https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
+#EXTINF:0,can TV
+#EXTGRP:Turkish
+http://canbroadcast.com:7000/canlican/tv.m3u8?checkedby:iptvcat.com
+#EXTINF:0,halktv.
+#EXTGRP:Turkish
+https://halktv.blutv.com/blutv_halktv_live/live.m3u8
+#EXTINF:0,TRT 1
+#EXTGRP:Turkish
+https://d1u68oyra9spme.cloudfront.net/master_2.m3u8
+#EXTINF:0,TRT MUZIK
+#EXTGRP:Turkish
+https://tv-trtmuzik.medya.trt.com.tr/master_480.m3u8
+#EXTINF:0,TRT BELGESEL
+#EXTGRP:Turkish
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT HABER
+#EXTGRP:Turkish
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,KANAL33
+#EXTGRP:Turkish
+http://pstutoriale.net:14000/play/live.php?mac=00:1A:79:62:43:41&
+#EXTINF:0,FOX
+#EXTGRP:Turkish
+https://foxtv.daioncdn.net/foxtv/foxtv_720p.m3u8?ex=1697760052&
+#EXTINF:0,FOXHD
+#EXTGRP:Turkish
+https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_360p1000000/index.m3u8
+#EXTINF:0,TV8
+#EXTGRP:Turkish
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+#EXTINF:0,TV8
+#EXTGRP:Turkish
+https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/cb573d1e726c648c9dd43764cef34682847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aae859138b3ea1b7014ec32643fa83439c8101b3d1d35283128423f8459e94f4d9d146d6e4c459976f27d36f224054a8c21dbadb5ca7a8f5035bbd42588d9ac884d9f7df5d35873d28344e76aecd00da01cc8029c30f5f0e89fd3de611b811cf2cb5e347ace7db8d00296bd51ee18bbaa59282aa82861ebf16c3c3cffd3910b8e51d7908eb6cdf2a2f3994c70675eecc3899ac2a89b868526d8ec105d3aabb8debbf9a59dc0bfe87a5c873121523330b880bf6c12dc37f8931e8ef0331504873a8987ecd92960b633501d5d61e9c38338df6a7cf9f0232c1655b7ded63d2544c2cef3c7e73e828b6cb6c35c77644d57b6dbb6b348643eeb163a0f48cab556dc7abad28c866e1b105c5e542f83d4e3e2c87b27d0f0b1c079384002a3f76c449e1a9bac27f1b0fe1f28db3806431093d18451fc985c3758885d4260d1ca2...
+#EXTINF:0,TV8.5
+#EXTGRP:Turkish
+http://5.182.229.90:8080/6895/index.m3u8
+#EXTINF:0,360
+#EXTGRP:Turkish
+https://turkmedya-live.ercdn.net/tv360/tv360_480p.m3u8
+#EXTINF:0,TV4
+#EXTGRP:Turkish
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:0,BEYAZ
+#EXTGRP:Turkish
+https://mn-nl.mncdn.com/blutv_beyaztv/beyaztv_sd.smil/chunklist_b1314000.m3u8
+#EXTINF:0,TLC
+#EXTGRP:Turkish
+https://mn-nl.mncdn.com/blutv_tlc2/live_360p500000/index.m3u8
+#EXTINF:0,DMAX
+#EXTGRP:Turkish
+https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8
+#EXTINF:0,CICFTCI
+#EXTGRP:Turkish
+http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/chunklist_w808618022_b664000_sltur.m3u8
+#EXTINF:0,HALK
+#EXTGRP:Turkish
+https://mn-nl.mncdn.com/blutv_halktv2/live_720p2000000kbps/index.m3u8
+#EXTINF:0,TELE1
+#EXTGRP:Turkish
+https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
+#EXTINF:0,cine5
+#EXTGRP:Turkish
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w714533803.m3u8
+#EXTINF:0,A HABER
+#EXTGRP:Turkish
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$A_HABER_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0,CNN TURK
+#EXTGRP:Turkish
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$CNN_TURK_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0,NTV
+#EXTGRP:Turkish
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NTV_HD/index.m3u8?start=LIVE&
+#EXTINF:0,24
+#EXTGRP:Turkish
+https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
+#EXTINF:0,TRT COCOK
+#EXTGRP:Turkish
+https://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
+#EXTINF:0,TVNET
+#EXTGRP:Turkish
+https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
+#EXTINF:0,TV100
+#EXTGRP:Turkish
+https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
+#EXTINF:0,Haber Global HD
+#EXTGRP:Turkish
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:0,KRAL
+#EXTGRP:Turkish
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:0,TGRT Haber
+#EXTGRP:Turkish
+https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
+#EXTINF:0,Medeniyet TV
+#EXTGRP:Turkish
+https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8
+#EXTINF:0,SINOPYILDIZ
+#EXTGRP:Turkish
+https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+#EXTINF:0,Dream Türk Canlı
+#EXTGRP:Turkish
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_1_320/playlist.m3u8?key=2909f6701b4ac38e6edac33e325dadc8&
+#EXTINF:0,Number1-Turk
+#EXTGRP:Turkish
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
+#EXTINF:0,powerdance
+#EXTGRP:Turkish
+https://livetv.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8?nimblesessionid=1346969607
+#EXTINF:0,SAMARKAND
+#EXTGRP:Turkish
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/5oTI89yP33ryJ_1.m3u8
+#EXTINF:0,ZEE AFLAM
+#EXTGRP:ARABIC
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v2a1/mono.m3u8
+#EXTINF:0,B4U AFLAM
+#EXTGRP:ARABIC
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v3a1/mono.m3u8
+#EXTINF:0,WAYYAK ACTION
+#EXTGRP:ARABIC
+https://weyyak-live.akamaized.net/weyyak_action/tracks-v5a1/mono.m3u8
+#EXTINF:0,MBC1
+#EXTGRP:ARABIC
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
+#EXTINF:0,MBC2
+#EXTGRP:ARABIC
+http://libyaflix.net:12101/channel33/tracks-v2a1/mono.m3u8
+#EXTINF:0,MBC3
+#EXTGRP:ARABIC
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
+#EXTINF:0,MBC4
+#EXTGRP:ARABIC
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF:0,MBC5
+#EXTGRP:ARABIC
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+#EXTINF:0,MBC ACTION
+#EXTGRP:ARABIC
+http://libyaflix.net:12101/channel35/tracks-v2a1/mono.m3u8
+#EXTINF:0,MBC BOLLYWOOD
+#EXTGRP:ARABIC
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:0,MBC DRAMA HD
+#EXTGRP:ARABIC
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_1.m3u8
+#EXTINF:0,MBCDRAMA HD+
+#EXTGRP:ARABIC
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_5.m3u8
+#EXTINF:0,MBC IRAQ
+#EXTGRP:ARABIC
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_5.m3u8
+#EXTINF:0,MBC KOREA
+#EXTGRP:ARABIC
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/chunklist_b4628000.m3u8
+#EXTINF:0,Rotana khaleejiya
+#EXTGRP:ARABIC
+https://daiconnect.com/live/hls/rotana/khaleejiya/bdd1ae456dc13265bac8bfc099af0dc8/.m3u8?requestuid=230b5db6-9fb5-4975-a581-4df4cee50ae1
+#EXTINF:0,Rotana Drama
+#EXTGRP:ARABIC
+https://daiconnect.com/live/hls/rotana/drama/9b0a53d1651976ae09b97c87fa463440/.m3u8?requestuid=5aa3555b-89d9-4d27-93c4-7f4e23b85186
+#EXTINF:0,Rotana Cinema
+#EXTGRP:ARABIC
+https://daiconnect.com/live/hls/rotana/cinema-masr-egypt/c642f459e3073dc33d03786792ccbb43/.m3u8?requestuid=f0864048-ce4a-4b28-b311-cf05277e0226
+#EXTINF:0,Rotana Comedy
+#EXTGRP:ARABIC
+https://daiconnect.com/live/hls/rotana/comedy/1e434d4d887ee3cc7d9c4bebbd03eb2d/.m3u8?requestuid=29350c7f-19af-4ede-a8ea-e44d8cb8c149
+#EXTINF:0,Rotana Classic
+#EXTGRP:ARABIC
+https://daiconnect.com/live/hls/rotana/classical/c2fa205c1b0e5ef0c769efeb1c32c797/.m3u8?requestuid=024e7c54-1208-46d7-859f-8a14c9714408
+#EXTINF:0,Rotana music
+#EXTGRP:ARABIC
+https://daiconnect.com/live/hls/rotana/music/1bdf87c8190d3f4cf61c7a6f42128b53/.m3u8?requestuid=e7eaa93e-2ead-433e-9de0-49279164afc0
+#EXTINF:0,time shamyat
+#EXTGRP:ARABIC
+https://livestream.almanasa.tv:8017/series/ch8/ch8_1080.m3u8
+#EXTINF:0,Al Rabiaa
+#EXTGRP:ARABIC
+https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/tracks-v1a1/mono.m3u8
+#EXTINF:0,ALMANAR
+#EXTGRP:ARABIC
+https://manar.live/iptv/tracks-v2a1/mono.m3u8
+#EXTINF:0,Abu Dhabi TV
+#EXTGRP:ARABIC
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0,Alrayyan TV
+#EXTGRP:ARABIC
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_480p/chunks_dvr.m3u8
+#EXTINF:0,Ajman TV
+#EXTGRP:ARABIC
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/8eb0e912b49142d7a01d779c9374aba9/chunklist_b2592000.m3u8
+#EXTINF:0,Al Emarat TV
+#EXTGRP:ARABIC
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0,Dubai TV
+#EXTGRP:ARABIC
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0,AUDE
+#EXTGRP:ARABIC
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+#EXTINF:0,DW Arabic
+#EXTGRP:ARABIC
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
+#EXTINF:0,nablus
+#EXTGRP:ARABIC
+http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
+#EXTINF:0,AJYAL
+#EXTGRP:ARABIC
+http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
+#EXTINF:0,alsharqiya
+#EXTGRP:ARABIC
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1408895114.m3u8
+#EXTINF:0,DUBAI ZAMAN
+#EXTGRP:ARABIC
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1700000.m3u8
+#EXTINF:0,QATAR
+#EXTGRP:ARABIC
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/3.m3u8
+#EXTINF:0,SAUDI 1
+#EXTGRP:ARABIC
+https://cllive.itworkscdn.net/ksa1live/token=nva=1660621478~dirs=1~hash=0290fbb68085c1c6ec033/ksa1.smil/ksa1_360p_chunks_dvr.m3u8
+#EXTINF:0,TRT ARABI
+#EXTGRP:ARABIC
+https://tv-trtarabi.live.trt.com.tr/master_360.m3u8
+#EXTINF:0,ZAMAN
+#EXTGRP:ARABIC
+https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sama TV
+#EXTGRP:ARABIC
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/2002
+#EXTINF:0,Lana TV HD
+#EXTGRP:ARABIC
+https://eitc3.secure2.footprint.net/hls/m3u8/720p.m3u8
+#EXTINF:0,Syria Drama
+#EXTGRP:ARABIC
+https://cdn1.ipslow.com/tv496_www.elahmad.com_syria_drama/tracks-v1a1/mono.m3u8?token=caf57873a648e3f65e07cc0180b5e1b262e59bc9-4ec400e0a784c1a68b98d278526f023e-1703803001-1703792201
+#EXTINF:0,Syria HD
+#EXTGRP:ARABIC
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8
+#EXTINF:0,SYRIA1
+#EXTGRP:ARABIC
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/2004
+#EXTINF:0,aljazeera
+#EXTGRP:NEWS
+https://live-hls-web-aja.getaj.net/AJA/05.m3u8
+#EXTINF:0,aljazeeralive
+#EXTGRP:NEWS
+https://live-hls-web-aja.getaj.net/AJA/06.m3u8
+#EXTINF:0,AL HADATH
+#EXTGRP:NEWS
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_1080p_chunks.m3u8
+#EXTINF:0,alarabiya
+#EXTGRP:NEWS
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
+#EXTINF:0,SKYNEWS
+#EXTGRP:NEWS
+https://stream.skynewsarabia.com/vertical/vertical_1080.m3u8
+#EXTINF:0,SHARQIYA NEWS
+#EXTGRP:NEWS
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w690438846.m3u8
+#EXTINF:0,IRAQIANEWS
+#EXTGRP:NEWS
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
+#EXTINF:0,Alhurra TV
+#EXTGRP:NEWS
+https://mbnv-video-ingest.akamaized.net/hls/live/2038904-b/MBNV_ALHURRA_MAIN_HLS/master_11.m3u8
+#EXTINF:0,VOA
+#EXTGRP:NEWS
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0720.m3u8
+#EXTINF:0,cctvplus
+#EXTGRP:NEWS
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w40898342_b1000000.m3u8
+#EXTINF:0,Bloomberg
+#EXTGRP:NEWS
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-3-59AYRC2Ks9Iy_live.m3u8
+#EXTINF:0,Euronews
+#EXTGRP:NEWS
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
+#EXTINF:0,Euronews IT
+#EXTGRP:NEWS
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/3c9650554eea29e9c0494fd9f0545600.m3u8
+#EXTINF:0,Rai News 24
+#EXTGRP:NEWS
+https://streamcdne2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:0,Aljazeera Balkans
+#EXTGRP:NEWS
+https://live-hls-web-ajb.getaj.net/AJB/02.m3u8
+#EXTINF:0,IRINN NEWS
+#EXTGRP:NEWS
+https://cdn-azd2057.telewebion.com/irinn/live/720p/index.m3u8?uid=mOkIwWeCchrgzY08SswH3Z35lLcIjaMQBKsKCymlGAntA6plF00Vw0zHGPdczhDb&
+#EXTINF:0,Alam news
+#EXTGRP:NEWS
+https://live2.alalam.ir/live/Alalam_high/index.m3u8
+#EXTINF:0,I24 NEWS
+#EXTGRP:NEWS
+https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/profile_1/chunklist_dvr.m3u8
+#EXTINF:0,QuranTV
+#EXTGRP:Islamic
+https://server03.quran.com.kw:7005/;
+#EXTINF:0,Quran1
+#EXTGRP:Islamic
+https://server03.quran.com.kw:7032/;
+#EXTINF:0,Quran3
+#EXTGRP:Islamic
+https://server03.quran.com.kw:9892/;
+#EXTINF:0,Quran4
+#EXTGRP:Islamic
+https://server03.quran.com.kw:9892/;
+#EXTINF:0,Quran2
+#EXTGRP:Islamic
+https://server03.quran.com.kw:7011/;
+#EXTINF:0,Quran5
+#EXTGRP:Islamic
+https://server03.quran.com.kw:9912/;
+#EXTINF:0,Quran6
+#EXTGRP:Islamic
+https://qurango.net/radio/tarateel
+#EXTINF:0,Quran7
+#EXTGRP:Islamic
+https://server03.quran.com.kw:9848/;
+#EXTINF:0,Quran8
+#EXTGRP:Islamic
+https://server03.quran.com.kw:9850/;
+#EXTINF:0,Quran9
+#EXTGRP:Islamic
+https://server03.quran.com.kw:9884/;
+#EXTINF:0,imkquran
+#EXTGRP:Islamic
+http://62.67.13.53:1935/live/imkquran/chunklist_w2098245208.m3u8
+#EXTINF:0,SPI-RUQYA-HD
+#EXTGRP:Islamic
+http://62.67.13.53:1935/live/SPI-RUQYA-HD-KB2022/chunklist_w1902024298.m3u8
+#EXTINF:0,ISTAR QURAN
+#EXTGRP:Islamic
+http://streaming.arcast.com.ar:1935/utntv/istar-quran/chunklist_w1351075379.m3u8
+#EXTINF:0,ZINA QURAN
+#EXTGRP:Islamic
+http://85.237.89.6:9590/live/zinaholequran/mono.m3u8
+#EXTINF:0,Almajd Hadeth
+#EXTGRP:Islamic
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/956
+#EXTINF:0,erth alnabawy
+#EXTGRP:Islamic
+http://82.212.74.2:8000/live/hls/7307.m3u8
+#EXTINF:0,iqraa
+#EXTGRP:Islamic
+https://jmc-live.ercdn.net/iqraa/iqraa_360p.m3u8
+#EXTINF:0,karkuk quran
+#EXTGRP:Islamic
+http://avrstream.com:1935/live/alqurankaremkarkuk/chunklist_w268173869.m3u8
+#EXTINF:0,MANOTO
+#EXTGRP:others
+https://edge-uk3.manoto.click/live_1500.m3u8
+#EXTINF:0,DW GERMANY
+#EXTGRP:others
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream01/streamPlaylist.m3u8
+#EXTINF:0,VOA PERSIA
+#EXTGRP:others
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0720.m3u8
+#EXTINF:0,Simaye Azad
+#EXTGRP:others
+https://simaytv.akamaized.net/hls/live/2043550/simayhls/04.m3u8
+#EXTINF:0,MAKAN33 ISRAEL
+#EXTGRP:others
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2381/index.m3u8
+#EXTINF:0,irib2
+#EXTGRP:others
+https://af.ayas.ir/hls2/tv2.m3u8
+#EXTINF:0,irib3
+#EXTGRP:others
+https://af.ayas.ir/hls2/tv3.m3u8
+#EXTINF:0,irib4
+#EXTGRP:others
+https://cdn-azd2043.telewebion.com/tv4/live/576p/index.m3u8
+#EXTINF:0,irib5
+#EXTGRP:others
+https://cdn-azd204f.telewebion.com/tehran/live/576p/index.m3u8?uid=IoXQDX9NEpf5hyUQCUKYulLLrrMhInkRUneXwiPsKb8M3NEbRVG017VNarrGsVlW&
+#EXTINF:0,irib MOSTANAD
+#EXTGRP:others
+https://cdn-azd204f.telewebion.com/mostanad/live/1080p/index.m3u8?uid=IoXQDX9NEpf5hyUQCUKYulLLrrMhInkRUneXwiPsKb8M3NEbRVG017VNarrGsVlW&
+#EXTINF:0,AVA SERIES
+#EXTGRP:others
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:0,irib AMOZESH
+#EXTGRP:others
+https://cdn-azd2053.telewebion.com/amouzesh/live/576p/index.m3u8
+#EXTINF:0,kino sat
+#EXTGRP:others
+http://185.23.80.28:8080/KinoSat/tracks-v1a1/mono.m3u8
+#EXTINF:0,rakuten
+#EXTGRP:others
+https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:0,Rai Premium
+#EXTGRP:others
+http://livetv.ktv.zone/154/play.m3u8
+#EXTINF:0,ARTE DEU
+#EXTGRP:others
+https://s4.hopslan.com/arte/tracks-v1a1/mono.m3u8?token=b12c6d4c1381519fcd6ffb9b493c5c45a0340945-eab5e3781ca751cf893a0ed5427f85a0-1669936443-1669925643
+#EXTINF:0,DAS ERSTE
+#EXTGRP:others
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master_1280p_3200.m3u8
+#EXTINF:0,RTL
+#EXTGRP:others
+https://s6.hopslan.com/rtlu111/tracks-v1a1/mono.m3u8
+#EXTINF:0,RTL2
+#EXTGRP:others
+https://s6.hopslan.com/rtl2q1/index.m3u8?token=ac888ceea0b35e6489fdb87ca3ffefe724b1ff5a-df9ec610e06772c6c41fdf7c369ea5b5-1670458563-1670447763
+#EXTINF:0,ZDF
+#EXTGRP:others
+https://s6.hopslan.com/zdff1/tracks-v1a1/mono.m3u8?token=cdf6af4106717bd017b16c65e7e4b73c6a98955c-c99e34d71dc9ce2e5e8ef086b5715227-1670447143-1670436343
+#EXTINF:0,ZDF NEO
+#EXTGRP:others
+https://s6.hopslan.com/zdfneo/tracks-v1a1/mono.m3u8?token=5c128bda834da06663c04fca5a61114cb677d15c-f818ddad982d211bf3836fbb4edae6b4-1670370316-1670359516
+#EXTINF:0,TVP KULTURA
+#EXTGRP:others
+https://s.tvp.pl/files/player/video/material_niedostepny.mp4
+#EXTINF:0,ORF1
+#EXTGRP:others
+https://apasfiis.sf.apa.at/gp_nas/_definst_/nas/gp/online/GEOPROTECTION_hr.smil/manifest.mpd&selected_id=p0va0br1819370
+#EXTINF:0,RTLTELE
+#EXTGRP:others
+https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
+#EXTINF:0,ATN afghan
+#EXTGRP:others
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w226322675.m3u8
+#EXTINF:0,Eslah TV afghan
+#EXTGRP:others
+https://eslahtvhls.wns.live/hls/stream.m3u8
+#EXTINF:0,makan 33 israel
+#EXTGRP:others
+https://makan.media.kan.org.il/hls/live/2024680-b/2024680/source1_2.5k/chunklist.m3u8
+#EXTINF:0,kan11
+#EXTGRP:others
+https://kan11.media.kan.org.il/hls/live/2024514-b/2024514/source1_2.5k/chunklist.m3u8
+#EXTINF:0,kan 14
+#EXTGRP:others
+https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/2/streamPlaylist.m3u8
+#EXTINF:0,1TV Armenia
+#EXTGRP:others
+https://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/mono.m3u8
+#EXTINF:0,VIVA POLSKA
+#EXTGRP:others
+https://hls.goodgame.ru/hls/180805_480.m3u8
+#EXTINF:0,Dever TV Local
+#EXTGRP:kurdish test
+http://aro4us.com:80/live/Layali.Diab/jeosimeYAJ/281663.ts
+#EXTINF:0,ATV KURD
+#EXTGRP:kurdish test
+http://onlinekurdistantv.com:8080/live/onlinetv/onlinetv/3116.m3u8
+#EXTINF:0,nrt2
+#EXTGRP:kurdish test
+http://198.100.158.231:1935/live/nrt2/chunklist_w901385184.m3u8
+#EXTINF:0,KURDMAX BADINI
+#EXTGRP:kurdish test
+http://iptv.nextnet.krd:25461/live/nextnet/3738/158.m3u8
+#EXTINF:0,zarok
+#EXTGRP:kurdish test
+https://stream-03.dc3.dailymotion.com/sec(Xio92lQyFXPlwj6tYdjikq5tNKZ3orQilD5j36goikiHDw4BOzvI4wegEw4cM8ah)
+#EXTINF:0,YES SPORT1 HD
+#EXTGRP:Yes Sport Full HD
+http://mynetworks.info/live/808080/909090/73362.m3u8
+#EXTINF:0,YES SPORT2 HD
+#EXTGRP:Yes Sport Full HD
+http://mynetworks.info/live/808080/909090/73361.m3u8
+#EXTINF:0,YES SPORT3 HD
+#EXTGRP:Yes Sport Full HD
+http://mynetworks.info/live/808080/909090/73360.m3u8
+#EXTINF:0,Been Sports 1 4K
+#EXTGRP:4K
+http://sawaiptv.vip/live/sawa23/87654321/138807.ts
+#EXTINF:0,NASA 4K
+#EXTGRP:4K
+https://endpnt.com/hls/nasa4k60/nasa-uhd-p60-stream.m3u8
+#EXTINF:0,Sport5 4K
+#EXTGRP:4K
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12277/index.m3u8
+#EXTINF:0,LOVE NATURE ULTRA4K
+#EXTGRP:4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:0,ssc 4k
+#EXTGRP:4K
+http://ugeen.live:8080/kaicer_VIPdlbg5k/1p4xdo/4314
+#EXTINF:0,loupe 4k
+#EXTGRP:4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080_1.m3u8
