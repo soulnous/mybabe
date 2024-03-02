@@ -8,7 +8,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1  tvg-id="Tennis" tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-54B862044B-seeklogo.com.png" group-title="Israel",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://cdn.startimestv.com/static/files/console/afa6535a-6819-46b8-bf53-e6ab2416fb47.jpg" tvg-id="Real Madrid TV" group-title="Israel",Real Madrid TV
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/RMTDT.jpg" tvg-id="Real Madrid TV" group-title="Israel",Real Madrid TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
 #EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://i.imgur.com/TyF29pf.png" group-title="Israel",kan 11
