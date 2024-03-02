@@ -5,7 +5,7 @@ https://rgelive.akamaized.net/hls/live/2043095/live3/playlistMain_1_.m3u8
 #EXTINF:-1  tvg-id="WWE" tvg-logo="https://raw.githubusercontent.com/soulnous/mybabe/main/WWELive16.png" group-title="Israel",WWE Live NetWork
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1  tvg-id="Tennis" tvg-logo="https://i.postimg.cc/CLc9yjH1/512px-Tennis-Channel-logo-svg.png" group-title="Israel",Tennis Channel
+#EXTINF:-1  tvg-id="Tennis" tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-54B862044B-seeklogo.com.png" group-title="Israel",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://i.imgur.com/TyF29pf.png" group-title="Israel",kan 11
