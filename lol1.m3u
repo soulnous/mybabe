@@ -11,6 +11,9 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/RMTDT.jpg" tvg-id="Real Madrid TV" group-title="Israel",Real Madrid TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Manchester United TV" tvg-logo="https://i.imgur.com/31yznID.jpeg" tvg-id="Manchester United TV" group-title="Israel",Manchester United TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
 #EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://i.imgur.com/TyF29pf.png" group-title="Israel",kan 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 
