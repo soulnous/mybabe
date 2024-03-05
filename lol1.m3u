@@ -68,8 +68,8 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" tvg-id="NBC NEWS" group-title="Israel",NBC NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 
-#EXTINF:-1 tvg-name="NASA TV Live" tvg-logo="https://i.imgur.com/m9IYFr0.jpeg" tvg-id="NASA TV Live" group-title="Israel",NASA TV Live
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://i.imgur.com/UlVSjYZ.png" tvg-id="BBC World News" group-title="Israel",BBC World News
+https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
 
 #EXTINF:-1 tvg-name="PANET 30 HALA هلا" tvg-logo="https://i.ibb.co/MG43H4H/hala.png" tvg-id="PANET 30 HALA هلا" group-title="Israel",PANET 30 HALA هلا
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
