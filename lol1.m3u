@@ -59,8 +59,11 @@ https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png" tvg-id="CNN" group-title="Israel",CNN
 https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8
 
-#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fox_News_Media_Logo.svg/320px-Fox_News_Media_Logo.svg.png" tvg-id="ABC NEWS" group-title="Israel",FOX NEWS
+#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fox_News_Media_Logo.svg/320px-Fox_News_Media_Logo.svg.png" tvg-id="FOX NEWS" group-title="Israel",FOX NEWS
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ABC NEWS" tvg-logo="https://i.imgur.com/zTs3gIw.png" tvg-id="ABC NEWS" group-title="Israel",ABC NEWS
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" tvg-id="NBC NEWS" group-title="Israel",NBC NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
