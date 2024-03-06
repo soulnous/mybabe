@@ -71,6 +71,9 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://i.imgur.com/UlVSjYZ.png" tvg-id="BBC World News" group-title="Israel",BBC World News
 https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
 
+#EXTINF:-1 tvg-name="CBN News" tvg-logo="https://i.imgur.com/oeO07RV.png" tvg-id="CBN News" group-title="Israel",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+
 #EXTINF:-1 tvg-name="PANET 30 HALA هلا" tvg-logo="https://i.ibb.co/MG43H4H/hala.png" tvg-id="PANET 30 HALA هلا" group-title="Israel",PANET 30 HALA هلا
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 
