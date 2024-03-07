@@ -1,26 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Sport 1 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
-#EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",SPORT 1 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/27uvm51627494269.png",SPORT 2 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2352/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/27uvm51627494269.png",SPORT 2 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/irxvmy1627494303.png",Sport 3 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2388/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/irxvmy1627494303.png",SPORT 3 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12251/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/km8o4f1627494329.png",Sport 4 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2389/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/km8o4f1627494329.png",SPORT 4 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12252/index.m3u8
-
+#EXTINF:-1 tvg-id="workpiont" tvg-name="workpiont" tvg-logo="bbb",workpiont
+https://m1.ballnaja.com/live/workpiont/playlist.m3u8
+#EXTINF:-1 tvg-id="one_HD" tvg-name="one_HD" tvg-logo="bbb",one_HD
+https://m1.ballnaja.com/live/one_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="France_24" tvg-name="France_24" tvg-logo="bbb",France_24
+https://m1.ballnaja.com/live/ais_France_24/playlist.m3u8
+#EXTINF:-1 tvg-id="True4U" tvg-name="True4U" tvg-logo="bbb",True4U
+https://m1.ballnaja.com/live/True4U/playlist.m3u8
+#EXTINF:-1 tvg-id="MCOT_HD" tvg-name="MCOT_HD" tvg-logo="bbb",MCOT_HD
+https://m1.ballnaja.com/live/MCOT_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="bbb",CCTV4
+https://m1.ballnaja.com/live/ais_CCTV4/playlist.m3u8
+#EXTINF:-1 tvg-id="CH_8" tvg-name="CH_8" tvg-logo="bbb",CH_8
+https://m1.ballnaja.com/live/CH_8/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBJ" tvg-name="TVBJ" tvg-logo="bbb",TVBJ
+https://m2.ballnaja.com/live/TVBJ/playlist.m3u8
+#EXTINF:-1 tvg-id="ADITHYA" tvg-name="ADITHYA" tvg-logo="bbb",ADITHYA
+https://m2.ballnaja.com/live/ADITHYA/playlist.m3u8
+#EXTINF:-1 tvg-id="ThairathTV_HD" tvg-name="ThairathTV_HD" tvg-logo="bbb",ThairathTV_HD
+https://m1.ballnaja.com/live/ThairathTV_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="HUA_HEE_DAI" tvg-name="HUA_HEE_DAI" tvg-logo="bbb",HUA_HEE_DAI
+https://m2.ballnaja.com/live/HUA_HEE_DAI/playlist.m3u8
+#EXTINF:-1 tvg-id="JKN_18" tvg-name="JKN_18" tvg-logo="bbb",JKN_18
+https://m1.ballnaja.com/live/JKN_18/playlist.m3u8
+#EXTINF:-1 tvg-id="CH3_HD" tvg-name="CH3_HD" tvg-logo="bbb",CH3_HD
+https://m1.ballnaja.com/live/CH3_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSARAWAK" tvg-name="TVSARAWAK" tvg-logo="bbb",TVSARAWAK
+https://m2.ballnaja.com/live/TVSARAWAK/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC_AUSTRALIA" tvg-name="ABC_AUSTRALIA" tvg-logo="bbb",ABC_AUSTRALIA
+https://m2.ballnaja.com/live/ABC_AUSTRALIA/playlist.m3u8
+#EXTINF:-1 tvg-id="GMM_25" tvg-name="GMM_25" tvg-logo="bbb",GMM_25
+https://m1.ballnaja.com/live/GMM_25/playlist.m3u8
+#EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="bbb",NATGEO
+https://m2.ballnaja.com/live/NATGEO/playlist.m3u8
+#EXTINF:-1 tvg-id="BBTV_CH_7" tvg-name="BBTV_CH_7" tvg-logo="bbb",BBTV_CH_7
+https://m1.ballnaja.com/live/BBTV_CH_7/playlist.m3u8
+#EXTINF:-1 tvg-id="AMARIN_TV_HD" tvg-name="AMARIN_TV_HD" tvg-logo="bbb",AMARIN_TV_HD
+https://m2.ballnaja.com/live/AMARIN_TV_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="BBTV_CH_5" tvg-name="BBTV_CH_5" tvg-logo="bbb",BBTV_CH_5
+https://m1.ballnaja.com/live/BBTV_CH_5/playlist.m3u8
