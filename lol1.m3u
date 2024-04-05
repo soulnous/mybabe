@@ -24,7 +24,7 @@ https://ctrl.laotv.la/live/TSport2/index.m3u8
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 
 #EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://bahar-law.co.il/wp-content/uploads/2021/10/arutz12.png" group-title="Israel",keshet 12
-https://raw.githubusercontent.com/ipstreet312/freeiptv/b12cef22e33dd8a6152b9788a2c02fea151d4dec/ressources/keshetil/py/k12cc.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/eac6911973ce420f3f5e351449efe726ccaa5daf/ressources/keshetil/py/k12.m3u8
 
 #EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://harmonylife.co.il/wp-content/uploads/2023/03/RESHET131.png" group-title="Israel", reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
