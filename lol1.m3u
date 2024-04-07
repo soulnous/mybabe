@@ -24,7 +24,7 @@ https://ctrl.laotv.la/live/TSport2/index.m3u8
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 
 #EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://bahar-law.co.il/wp-content/uploads/2021/10/arutz12.png" group-title="Israel",keshet 12
-https://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.jsp?et=ngt&lp=/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-2700&rv=AKAMAI
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1712582563~acl=%2f*~data=hdntl~hmac=6dc28c231386422b99408905df32e7e7c1534df0cf07bbd753492012c7c59f72/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1&_did=5aaade67-aa2b-4ebd-b804-2f884aebce5a
 
 #EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://harmonylife.co.il/wp-content/uploads/2023/03/RESHET131.png" group-title="Israel", reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
