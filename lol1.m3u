@@ -32,6 +32,9 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/in
 #EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",now 14
 https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
 
+#EXTINF:-1 tvg-id="I24NewsHEB" tvg-name="I24NEWS" tvg-logo="https://play-lh.googleusercontent.com/RA8F-AD5IbLNNO4Qs_ccgi9p1txoZXmR7ZyN1b3Xx_j8pOf0JQkYHMs-zxYkaFLnzwBD=w240-h480-rw" group-title="Israel",ערוץ 24 חדשות
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_3/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="Channel 24" tvg-name="ערוץ 24" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg" group-title="Israel",ערוץ 24
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
 
@@ -40,9 +43,6 @@ https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/in
 
 #EXTINF:-1 tvg-id="knesset" tvg-name="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
-
-#EXTINF:-1 tvg-id="shopping" tvg-name="21channel" tvg-logo="https://www.new4u.co.il/wp-content/uploads/2017/07/%D7%9C%D7%95%D7%92%D7%95-%D7%A2%D7%A8%D7%95%D7%A5-%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg" group-title="Israel",ערוץ הקניות
-https://shoppingil-rewriter.vidnt.com/index.m3u8
 
 #EXTINF:-1 tvg-name="مكان 33" tvg-logo="https://picon-13398.kxcdn.com/makan33il.jpg" tvg-id="HOT3 Israel" group-title="Israel",مكان 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
