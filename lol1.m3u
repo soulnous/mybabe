@@ -66,7 +66,7 @@ https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png" tvg-id="CNN" group-title="Israel",CNN
-https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_4.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 
 #EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fox_News_Media_Logo.svg/320px-Fox_News_Media_Logo.svg.png" tvg-id="FOX NEWS" group-title="Israel",FOX NEWS
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
