@@ -64,6 +64,9 @@ https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-name="Shelanu TV" tvg-logo="https://static.wixstatic.com/media/163650_1f32fca43a0b4e81baf49ab75479c60b~mv2.png/v1/fill/w_125,h_126,al_c,q_95,enc_auto/logo.png" tvg-id="ShelanuTV.il" group-title="Israel",שלנו TV
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Kotel LiveTV" tvg-logo="https://www.mivzaklive.co.il/wp-content/uploads/2018/09/HAKOTEL-2.jpg" tvg-id="ShelanuTV.il" group-title="Israel",כותל שידור חי
+https://cdn1.cast-tv.com/23595/Live_Kotel3_ABR/playlist.m3u8
+
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png" tvg-id="CNN" group-title="Israel",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 
