@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1  tvg-id="Sport5" tvg-logo="https://i.imgur.com/O7oqI3X.jpeg" group-title="Israel",Sport5
+https://ddy1.iosplayer.ru/tshttp/ddy1/premium146/mono.m3u8?token=none
+
+#EXTINF:-1  tvg-id="WWE" tvg-logo="https://raw.githubusercontent.com/soulnous/mybabe/main/WWELive16.png" group-title="Israel",WWE Live NetWork
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1  tvg-id="Tennis" tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-54B862044B-seeklogo.com.png" group-title="Israel",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/RMTDT.jpg" tvg-id="Real Madrid TV" group-title="Israel",Real Madrid TV
+https://rmtv-canela.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Manchester United TV" tvg-logo="https://i.imgur.com/31yznID.jpeg" tvg-id="Manchester United TV" group-title="Israel",Manchester United TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="True Premier Football 1" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" tvg-id="True Premier Football 1" group-title="Israel",True Premier Football 1
+https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="True Premier Football 2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" tvg-id="True Premier Football 2" group-title="Israel",True Premier Football 2
+https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="True Premier Football 3" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" tvg-id="True Premier Football 3" group-title="Israel",True Premier Football 3
+https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://i.imgur.com/TyF29pf.png" group-title="Israel",kan 11
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
+
+#EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://bahar-law.co.il/wp-content/uploads/2021/10/arutz12.png" group-title="Israel",keshet 12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1728318595~acl=%2f*~data=hdntl~hmac=2389c437ac8bb9aba6b745862af03b07615d882d8436a128212789666b0fce9f/profileManifest.m3u8?_uid=daddeee9-868d-4942-8e06-8535e190e300&rK=a2&_did=5aaade67-aa2b-4ebd-b804-2f884aebce5a
+
+#EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://harmonylife.co.il/wp-content/uploads/2023/03/RESHET131.png" group-title="Israel", reshet 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+
+#EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",now 14
+https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/2/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="I24NewsHEB" tvg-name="I24NEWS" tvg-logo="https://images.globes.co.il/images/NewGlobes/big_image_800/2017/zxccxv8.jpg" group-title="Israel",ערוץ 24 חדשות
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Channel 24" tvg-name="ערוץ 24" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg" group-title="Israel",ערוץ 24
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
+
+#EXTINF:-1 tvg-id="האח הגדול" tvg-name="האח הגדול" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png" group-title="Israel",האח הגדול
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+
+#EXTINF:-1 tvg-id="knesset" tvg-name="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
+https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
+
+#EXTINF:-1 tvg-name="مكان 33" tvg-logo="https://picon-13398.kxcdn.com/makan33il.jpg" tvg-id="HOT3 Israel" group-title="Israel",مكان 33
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+
+#EXTINF:-1 tvg-name="9 ערוץ Ⓨ" tvg-logo="https://picon-13398.kxcdn.com/9kanalil.jpg" tvg-id="Channel9.il" group-title="Israel",9 канал Ⓨ
+https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
+
+#EXTINF:-1 tvg-name="וואלה" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/d5/Walla_logo.svg/1199px-Walla_logo.svg.png?20121102120646" tvg-id="Walla" group-title="Israel",Walla
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-name="כאן חינוכית" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="Israel",כאן חינוכית
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+
+#EXTINF:-1 tvg-name="הידברות" tvg-logo="https://i.imgur.com/CTH4Hu2.png" tvg-id="KanEducational.il" group-title="Israel",הידברות
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+
+#EXTINF:-1 tvg-name="קבלה לעם" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-id="KanEducational.il" group-title="Israel",קבלה לעם
+https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Shelanu TV" tvg-logo="https://static.wixstatic.com/media/163650_1f32fca43a0b4e81baf49ab75479c60b~mv2.png/v1/fill/w_125,h_126,al_c,q_95,enc_auto/logo.png" tvg-id="ShelanuTV.il" group-title="Israel",שלנו TV
+https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Relevant" tvg-name="Relevant" tvg-logo="https://www.motke.co.il/webfiles/images/cache/780X436/far/webfiles/fck/image/users_uploads/blog_post/2/0/5/7/2/357718_1704908666.png" group-title="Israel",RelevantIL
+https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
+
+#EXTINF:-1 tvg-id="21shoppingil" tvg-name="21shopping" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_%D7%A2%D7%A8%D7%95%D7%A5_%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg" group-title="Israel",21shoppingil
+https://shoppingil-rewriter.vidnt.com/video_10801920_p_0.m3u8
+
+#EXTINF:-1 tvg-name="Kotel LiveTV" tvg-logo="https://www.mivzaklive.co.il/wp-content/uploads/2018/09/HAKOTEL-2.jpg" tvg-id="ShelanuTV.il" group-title="Israel",כותל שידור חי
+https://cdn1.cast-tv.com/23595/Live_Kotel3_ABR/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png" tvg-id="CNN" group-title="Israel",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
+
+#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fox_News_Media_Logo.svg/320px-Fox_News_Media_Logo.svg.png" tvg-id="FOX NEWS" group-title="Israel",FOX NEWS
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ABC NEWS" tvg-logo="https://i.imgur.com/zTs3gIw.png" tvg-id="ABC NEWS" group-title="Israel",ABC NEWS
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" tvg-id="NBC NEWS" group-title="Israel",NBC NEWS
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
+
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://i.imgur.com/UlVSjYZ.png" tvg-id="BBC World News" group-title="Israel",BBC World News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
+
+#EXTINF:-1 tvg-name="CBN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/320px-CBS_logo.svg.png" tvg-id="CBN News" group-title="Israel",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/oeO07RV.png" tvg-id="CBN News" group-title="Israel",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+#EXTINF:-1 tvg-name="PANET 30 HALA هلا" tvg-logo="https://i.ibb.co/MG43H4H/hala.png" tvg-id="PANET 30 HALA هلا" group-title="Israel",PANET 30 HALA هلا
+https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="IsraelParsTV.il" tvg-logo="https://i.imgur.com/UM5Gf4L.png" tvg-id="IsraelParsTV.il" group-title="Israel",IsraelParsTV.il
+https://live.pars-israel.com/iptv/stream.m3u8
+
+#EXTINF:-1 tvg-name="i24 English" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" tvg-id="i24 English" group-title="Israel",i24 English
+https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+
