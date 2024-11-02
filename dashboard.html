@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>פרופיל לקוח</title>
+</head>
+<body>
+    <h2>ברוך הבא, [שם לקוח]</h2>
+    <h3>מספרי זכות של מוניות</h3>
+    <ul>
+        <li>מספר זכות 1</li>
+        <li>מספר זכות 2</li>
+        <li>מספר זכות 3</li>
+    </ul>
+
+    <h3>חתימה דיגיטלית</h3>
+    <canvas id="signature-pad" width="300" height="150" style="border: 1px solid black;"></canvas>
+    <br>
+    <button onclick="saveSignature()">שמור חתימה</button>
+
+    <script>
+        const canvas = document.getElementById("signature-pad");
+        const ctx = canvas.getContext("2d");
+        let drawing = false;
+
+        canvas.addEventListener("mousedown", () => drawing = true);
+        canvas.addEventListener("mouseup", () => drawing = false);
+        canvas.addEventListener("mousemove", draw);
+
+        function draw(event) {
+            if (!drawing) return;
+            ctx.lineWidth = 2;
+            ctx.lineCap = "round";
+            ctx.strokeStyle = "black";
+            ctx.lineTo(event.clientX - canvas.offsetLeft, event.clientY - canvas.offsetTop);
+            ctx.stroke();
+            ctx.beginPath();
+            ctx.moveTo(event.clientX - canvas.offsetLeft, event.clientY - canvas.offsetTop);
+        }
+
+        function saveSignature() {
+            const dataURL = canvas.toDataURL();
+            alert("החתימה נשמרה בהצלחה!");
+            console.log("חתימה שמורה:", dataURL);
+        }
+    </script>
+</body>
+</html>
