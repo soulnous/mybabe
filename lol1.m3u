@@ -26,8 +26,7 @@ https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_1.8k/chunklist.
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 
 #EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://bahar-law.co.il/wp-content/uploads/2021/10/arutz12.png" group-title="Israel",keshet 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1752740295~acl=%2f*~data=hdntl~hmac=4f4ef5d1b87f9eb7e23b62eded1dd622433cb111ee5bf5a8df149bbcfa92d34e/profileManifest.m3u8?_uid=90a5945c-e27d-4ff2-93ed-71be80f19f1a&rK=bn&_did=5aaade67-aa2b-4ebd-b804-2f884aebce5a
-
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12makowad/profile/2/hdntl=exp=1760778232~acl=%2f*~data=hdntl~hmac=1496a592af1fa60df04e864a4f8371d0b48f8b0d52ed74a64769163109d08138/profileManifest.m3u8?_uid=2c69157c-fbc4-44fb-aad3-6c25c166af86&rK=b8&_did=199fd4308999b31730b8cb6ee3646778fa06a620
 #EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://harmonylife.co.il/wp-content/uploads/2023/03/RESHET131.png" group-title="Israel", reshet 13
 https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index_1.m3u8
 
@@ -105,4 +104,5 @@ https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/53
 
 #EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",ערוץ 14 אופציה שנייה
 https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+
 
