@@ -26,7 +26,7 @@ https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_1.8k/chunklist.
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 
 #EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://bahar-law.co.il/wp-content/uploads/2021/10/arutz12.png" group-title="Israel",keshet 12
-https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/hdntl=exp=1762393765~acl=%2f*~data=hdntl~hmac=e7a1052a26e188cb5982302ebebb9f2ea8de1f804a8f7178ed28e5c42d001102/index_2200.m3u8
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1680890588~acl=%2f*~data=hdntl~hmac=402319e58d8e302501cbc19dd231943fbd1b1a07ad763e9adb54c15ad62a9003/video_10801920_p_1.m3u8
 
 
 #EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://harmonylife.co.il/wp-content/uploads/2023/03/RESHET131.png" group-title="Israel", reshet 13
@@ -106,6 +106,7 @@ https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/53
 
 #EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",ערוץ 14 אופציה שנייה
 https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+
 
 
 
