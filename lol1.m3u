@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="Sport5" tvg-logo="https://i.imgur.com/O7oqI3X.jpeg" group-title="Israel",Sport5
-https://workerjs.soulnous157.workers.dev/?u=https://www.xlrod.com/Streams/Keshet12.aspx
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlistMain_1_.m3u8
 
 #EXTINF:-1  tvg-id="WWE" tvg-logo="https://raw.githubusercontent.com/soulnous/mybabe/main/WWELive16.png" group-title="Israel",WWE Live NetWork
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
@@ -97,6 +97,7 @@ https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/53
 
 #EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",ערוץ 14 אופציה שנייה
 https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+
 
 
 
