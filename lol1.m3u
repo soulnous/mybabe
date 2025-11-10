@@ -30,7 +30,7 @@ https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_3/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Channel 24" tvg-name="ערוץ 24" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg" group-title="Israel",ערוץ 24
-https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
 
 #EXTINF:-1 tvg-id="האח הגדול" tvg-name="האח הגדול" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png" group-title="Israel",האח הגדול
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
@@ -97,6 +97,7 @@ https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/53
 
 #EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",ערוץ 14 אופציה שנייה
 https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+
 
 
 
