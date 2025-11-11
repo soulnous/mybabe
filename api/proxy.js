@@ -9,54 +9,71 @@ module.exports = async function (req, res) {
     return res.status(204).end();
   }
 
-  const u = req.query.u;
-  if (!u) {
+  const startUrl = req.query.u;
+  if (!startUrl) {
     res.setHeader('Access-Control-Allow-Origin', '*');
     return res.status(400).send('Missing ?u=');
   }
 
-  // -------- helpers --------
   const UA =
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36';
 
-  async function fetchFollowWithCookies(startUrl, rangeHeader) {
-    let url = startUrl;
-    let cookie = '';                 // cookie jar (single header)
-    let refererForHost = startUrl;   // נשתמש ברפרר המלא של ה-URL הראשון
-    for (let i = 0; i < 8; i++) {    // הגבלת redirect-ים
-      const r = await fetch(url, {
-        redirect: 'manual',          // אנחנו מנהלים redirect ידנית
+  // נעקוב אחרי Redirect-ים ידנית + ננהל Cookie Jar
+  async function fetchFollowWithCookies(url, rangeHeader) {
+    let cur = startUrl;
+    let cookie = '';
+    for (let hop = 0; hop < 10; hop++) {
+      const host = new URL(cur).hostname;
+
+      const r = await fetch(cur, {
+        redirect: 'manual',
         headers: {
+          // headers "דפדפן"
           'User-Agent': UA,
-          'Accept': '*/*',
+          'Accept':
+            'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
           'Accept-Language': 'en-US,en;q=0.9,he;q=0.8',
-          'Referer': refererForHost,
-          ...(cookie ? { 'Cookie': cookie } : {}),
+          'Cache-Control': 'no-cache',
+          'Pragma': 'no-cache',
+          'Upgrade-Insecure-Requests': '1',
+
+          // הכי חשובים אצלם:
+          'Referer': 'https://www.xlrod.com/',
+          'Host': host,
+
+          // שמירה על טווח לסגמנטים
           ...(rangeHeader ? { 'Range': rangeHeader } : {}),
+          ...(cookie ? { 'Cookie': cookie } : {}),
+
+          // חלק מאתרים אוהבים את אלה:
+          'Sec-Fetch-Site': 'same-origin',
+          'Sec-Fetch-Mode': 'navigate',
+          'Sec-Fetch-Dest': 'document',
         },
       });
 
-      // צבירת cookies
-      const setCookie = r.headers.get('set-cookie');
-      if (setCookie) {
-        // אם כבר יש cookie – מחברים; אחרת מאפסים
-        cookie = cookie
-          ? cookie + '; ' + setCookie.split(';')[0]
-          : setCookie.split(';')[0];
+      // איסוף cookies
+      const setCookieAll = r.headers.get('set-cookie');
+      if (setCookieAll) {
+        // שומרים רק שם=ערך, בלי מאפיינים
+        const parts = setCookieAll.split(/,(?=[^;]+?=)/); // מפרק אם יש כמה Set-Cookie בשורה
+        for (const p of parts) {
+          const kv = p.split(';')[0].trim();
+          if (!cookie.includes(kv.split('=')[0] + '=')) {
+            cookie = cookie ? cookie + '; ' + kv : kv;
+          }
+        }
       }
 
-      // redirect ידני
-      if ([301,302,303,307,308].includes(r.status)) {
+      // Redirect ידני
+      if ([301, 302, 303, 307, 308].includes(r.status)) {
         const loc = r.headers.get('location');
-        if (!loc) return { response: r, finalUrl: url, cookie };
-        const next = new URL(loc, url).toString();
-        url = next;
-        // מעדכנים referer להתנהגות דפדפן רגילה (רפרר של הדף הקודם)
-        refererForHost = new URL(url).origin + '/';
+        if (!loc) return { response: r, finalUrl: cur, cookie };
+        cur = new URL(loc, cur).toString();
         continue;
       }
 
-      return { response: r, finalUrl: url, cookie };
+      return { response: r, finalUrl: cur, cookie };
     }
     throw new Error('Too many redirects');
   }
@@ -64,7 +81,7 @@ module.exports = async function (req, res) {
   try {
     const range = req.headers.range;
     const { response: upstream, finalUrl, cookie } =
-      await fetchFollowWithCookies(u, range);
+      await fetchFollowWithCookies(startUrl, range);
 
     // כותרות תשובה כלליות
     res.setHeader('Access-Control-Allow-Origin', '*');
@@ -79,34 +96,46 @@ module.exports = async function (req, res) {
       ct.includes('application/x-mpegURL') ||
       new URL(finalUrl).pathname.endsWith('.m3u8');
 
-    // אם זה m3u8 – שכתוב לכל ה-URI-ים בפנים בחזרה דרך הפרוקסי
     if (isM3U8) {
       const text = await upstream.text();
       const base = new URL(finalUrl);
-      const self = new URL(req.url, `https://${req.headers.host}`);
-      self.search = ''; // נבנה מחדש
 
-      const rewritten = text.split(/\r?\n/).map(line => {
-        if (!line || line.startsWith('#')) return line;
-        try {
-          const abs = new URL(line, base).toString();
-          return `${self.toString()}?u=${encodeURIComponent(abs)}`;
-        } catch { return line; }
-      }).join('\n');
+      // בניית self URL (אותו endpoint) כדי שכל ה-URI-ים בפנים יחזרו דרך הפרוקסי
+      const self = new URL(req.url, `https://${req.headers.host}`);
+      self.search = '';
+
+      const rewritten = text
+        .split(/\r?\n/)
+        .map((line) => {
+          if (!line || line.startsWith('#')) return line;
+          try {
+            const abs = new URL(line, base).toString();
+            return `${self.toString()}?u=${encodeURIComponent(abs)}`;
+          } catch {
+            return line;
+          }
+        })
+        .join('\n');
 
       res.setHeader('Content-Type', 'application/vnd.apple.mpegurl');
-      // כדי שהבקשות הבאות (סגמנטים) יישאו cookie – נעביר אותו בשקוף דרך הפרוקסי:
-      if (cookie) res.setHeader('Set-Cookie', cookie + '; Path=/; SameSite=None; Secure');
+      if (cookie) {
+        // מאפשר ללקוח לשמר cookie בין הבקשות (לא קריטי, אבל לפעמים מועיל)
+        res.setHeader(
+          'Set-Cookie',
+          `${cookie}; Path=/; SameSite=None; Secure`
+        );
+      }
       return res.status(upstream.status).send(rewritten);
     }
 
-    // קטעי וידאו/מפתחות – העברה גולמית עם כותרות מתאימות
+    // קטעי וידאו/מפתחות – העברה גולמית
     if (ct) res.setHeader('Content-Type', ct);
-    const cl = upstream.headers.get('content-length'); if (cl) res.setHeader('Content-Length', cl);
-    const cr = upstream.headers.get('content-range');  if (cr) res.setHeader('Content-Range', cr);
+    const cl = upstream.headers.get('content-length');
+    if (cl) res.setHeader('Content-Length', cl);
+    const cr = upstream.headers.get('content-range');
+    if (cr) res.setHeader('Content-Range', cr);
     res.setHeader('Accept-Ranges', upstream.headers.get('accept-ranges') || 'bytes');
 
-    // העברת גוף
     const buf = Buffer.from(await upstream.arrayBuffer());
     return res.status(upstream.status).send(buf);
   } catch (e) {
