@@ -36,7 +36,7 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_1080
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
 
 #EXTINF:-1 tvg-id="knesset" tvg-name="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
-https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
+https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="مكان 33" tvg-logo="https://picon-13398.kxcdn.com/makan33il.jpg" tvg-id="HOT3 Israel" group-title="Israel",مكان 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
@@ -97,6 +97,7 @@ https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/53
 
 #EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",ערוץ 14 אופציה שנייה
 https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+
 
 
 
