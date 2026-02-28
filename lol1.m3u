@@ -2,18 +2,6 @@
 #EXTINF:-1  tvg-id="Sport5" tvg-logo="https://i.imgur.com/O7oqI3X.jpeg" group-title="Israel",Sport5
 https://rgelive.akamaized.net/hls/live/2043095/live3/playlistMain_1_.m3u8
 
-#EXTINF:-1  tvg-id="WWE" tvg-logo="https://raw.githubusercontent.com/soulnous/mybabe/main/WWELive16.png" group-title="Israel",WWE Live NetWork
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/RMTDT.jpg" tvg-id="Real Madrid TV" group-title="Israel",Real Madrid TV
-https://rmtv-canela.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Manchester United TV" tvg-logo="https://i.imgur.com/31yznID.jpeg" tvg-id="Manchester United TV" group-title="Israel",Manchester United TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-
-#EXTINF:-1 tvg-name="True Premier Football 3" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" tvg-id="True Premier Football 3" group-title="Israel",True Premier Football 3
-https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/keshet_12/live.livx?5f8648185864d6a9cdd838c945e23c29:a96f0e2b472dc03b42bac41e5ad2239
-
 #EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://i.imgur.com/TyF29pf.png" group-title="Israel",kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
@@ -53,12 +41,6 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_1.8k/chunklist.m
 #EXTINF:-1 tvg-name="הידברות" tvg-logo="https://i.imgur.com/CTH4Hu2.png" tvg-id="KanEducational.il" group-title="Israel",הידברות
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 
-#EXTINF:-1 tvg-name="קבלה לעם" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-id="KanEducational.il" group-title="Israel",קבלה לעם
-https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Shelanu TV" tvg-logo="https://static.wixstatic.com/media/163650_1f32fca43a0b4e81baf49ab75479c60b~mv2.png/v1/fill/w_125,h_126,al_c,q_95,enc_auto/logo.png" tvg-id="ShelanuTV.il" group-title="Israel",שלנו TV
-https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Relevant" tvg-name="Relevant" tvg-logo="https://www.motke.co.il/webfiles/images/cache/780X436/far/webfiles/fck/image/users_uploads/blog_post/2/0/5/7/2/357718_1704908666.png" group-title="Israel",RelevantIL
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
 
@@ -91,38 +73,6 @@ https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-name="IsraelParsTV.il" tvg-logo="https://i.imgur.com/UM5Gf4L.png" tvg-id="IsraelParsTV.il" group-title="Israel",IsraelParsTV.il
 https://live.pars-israel.com/iptv/stream.m3u8
-
-#EXTINF:-1 tvg-name="i24 English" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" tvg-id="i24 English" group-title="Israel",i24 English
-https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-
-#EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",ערוץ 14 אופציה שנייה
-https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/keshet_12/live.livx?5f8648185864d6a9cdd838c945e23c29:a96f0e2b472dc03b42bac41e5ad2239
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
