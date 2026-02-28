@@ -36,7 +36,7 @@ https://s.xittv.net/0GO73ax25BlfmNYJwz4rBw/185/1772335178/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-name="כאן חינוכית" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="Israel",כאן חינוכית
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_1.8k/chunklist.m3u8
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8?renditions&amp;fmp4
 
 #EXTINF:-1 tvg-name="הידברות" tvg-logo="https://i.imgur.com/CTH4Hu2.png" tvg-id="KanEducational.il" group-title="Israel",הידברות
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
@@ -73,6 +73,7 @@ https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-name="IsraelParsTV.il" tvg-logo="https://i.imgur.com/UM5Gf4L.png" tvg-id="IsraelParsTV.il" group-title="Israel",IsraelParsTV.il
 https://live.pars-israel.com/iptv/stream.m3u8
+
 
 
 
