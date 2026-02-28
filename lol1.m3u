@@ -66,13 +66,13 @@ https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd2
 https://cdn1.cast-tv.com/23595/Live_Kotel3_ABR/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png" tvg-id="CNN" group-title="Israel",CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fox_News_Media_Logo.svg/320px-Fox_News_Media_Logo.svg.png" tvg-id="FOX NEWS" group-title="Israel",FOX NEWS
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+https://s6.usnlive.com/stream/foxnews.m3u8|referer=https://usnewson.com/&origin=https://usnewson.com
 
 #EXTINF:-1 tvg-name="ABC NEWS" tvg-logo="https://i.imgur.com/zTs3gIw.png" tvg-id="ABC NEWS" group-title="Israel",ABC NEWS
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" tvg-id="NBC NEWS" group-title="Israel",NBC NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
@@ -81,7 +81,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 
 #EXTINF:-1 tvg-name="CBN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/320px-CBS_logo.svg.png" tvg-id="CBN News" group-title="Israel",CBN News
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/oeO07RV.png" tvg-id="CBN News" group-title="Israel",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
@@ -97,6 +97,7 @@ https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/53
 
 #EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",ערוץ 14 אופציה שנייה
 https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/keshet_12/live.livx?5f8648185864d6a9cdd838c945e23c29:a96f0e2b472dc03b42bac41e5ad2239
+
 
 
 
