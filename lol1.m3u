@@ -33,16 +33,13 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playli
 https://contact.gostreaming.tv/Con-11/index.m3u
 
 #EXTINF:-1 tvg-name="וואלה" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/d5/Walla_logo.svg/1199px-Walla_logo.svg.png?20121102120646" tvg-id="Walla" group-title="Israel",Walla
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
+https://live.wcdn.co.il/news/prog_index.m3u8
 
 #EXTINF:-1 tvg-name="כאן חינוכית" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="Israel",כאן חינוכית
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8?renditions&amp;fmp4
 
 #EXTINF:-1 tvg-name="הידברות" tvg-logo="https://i.imgur.com/CTH4Hu2.png" tvg-id="KanEducational.il" group-title="Israel",הידברות
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Relevant" tvg-name="Relevant" tvg-logo="https://www.motke.co.il/webfiles/images/cache/780X436/far/webfiles/fck/image/users_uploads/blog_post/2/0/5/7/2/357718_1704908666.png" group-title="Israel",RelevantIL
-https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
 
 #EXTINF:-1 tvg-name="Kotel LiveTV" tvg-logo="https://www.mivzaklive.co.il/wp-content/uploads/2018/09/HAKOTEL-2.jpg" tvg-id="ShelanuTV.il" group-title="Israel",כותל שידור חי
 https://cdn1.cast-tv.com/23595/Live_Kotel3_ABR/playlist.m3u8
@@ -59,20 +56,12 @@ https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2a
 #EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" tvg-id="NBC NEWS" group-title="Israel",NBC NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 
-#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://i.imgur.com/UlVSjYZ.png" tvg-id="BBC World News" group-title="Israel",BBC World News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
-
 #EXTINF:-1 tvg-name="CBN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/320px-CBS_logo.svg.png" tvg-id="CBN News" group-title="Israel",CBN News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/oeO07RV.png" tvg-id="CBN News" group-title="Israel",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1 tvg-name="PANET 30 HALA هلا" tvg-logo="https://i.ibb.co/MG43H4H/hala.png" tvg-id="PANET 30 HALA هلا" group-title="Israel",PANET 30 HALA هلا
-https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-name="IsraelParsTV.il" tvg-logo="https://i.imgur.com/UM5Gf4L.png" tvg-id="IsraelParsTV.il" group-title="Israel",IsraelParsTV.il
-https://live.pars-israel.com/iptv/stream.m3u8
 
 
 
